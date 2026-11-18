@@ -10,10 +10,9 @@
 
 ---
 
-### 🌐 Live Production Demo & Handbook
+### 🌐 Live Production Demo
 
 - 🚀 **Live Vercel Web Application:** [https://profitable-app-profile-analysis.vercel.app](https://profitable-app-profile-analysis.vercel.app)
-- 📄 **Download Complete 8-Page Master Guide (PDF):** [`reports/Profitable_App_Profile_Analysis_Master_Guide.pdf`](reports/Profitable_App_Profile_Analysis_Master_Guide.pdf)
 
 ---
 
