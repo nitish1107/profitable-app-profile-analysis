@@ -1,0 +1,6 @@
+query_name,baseline_ms,optimized_ms,reduction_pct,speedup_x
+Query 1: Category Market Saturation,19.0,5.38,71.7,3.53
+Query 2: Freemium Outlier Filter,1589.19,8.53,99.5,186.31
+Query 3: Price Elasticity Tiers,3.01,1.2,60.1,2.51
+Query 4: Category Engagement Ranking,249.71,6.28,97.5,39.76
+Query 5: Strategic Opportunity Matrix,80.88,9.44,88.3,8.57

@@ -1,0 +1,43 @@
+{
+  "overall_reduction_pct": 98.4,
+  "overall_speedup_x": 62.98,
+  "total_baseline_ms": 1941.79,
+  "total_optimized_ms": 30.83,
+  "queries": [
+    {
+      "query_name": "Query 1: Category Market Saturation",
+      "baseline_ms": 19.0,
+      "optimized_ms": 5.38,
+      "reduction_pct": 71.7,
+      "speedup_x": 3.53
+    },
+    {
+      "query_name": "Query 2: Freemium Outlier Filter",
+      "baseline_ms": 1589.19,
+      "optimized_ms": 8.53,
+      "reduction_pct": 99.5,
+      "speedup_x": 186.31
+    },
+    {
+      "query_name": "Query 3: Price Elasticity Tiers",
+      "baseline_ms": 3.01,
+      "optimized_ms": 1.2,
+      "reduction_pct": 60.1,
+      "speedup_x": 2.51
+    },
+    {
+      "query_name": "Query 4: Category Engagement Ranking",
+      "baseline_ms": 249.71,
+      "optimized_ms": 6.28,
+      "reduction_pct": 97.5,
+      "speedup_x": 39.76
+    },
+    {
+      "query_name": "Query 5: Strategic Opportunity Matrix",
+      "baseline_ms": 80.88,
+      "optimized_ms": 9.44,
+      "reduction_pct": 88.3,
+      "speedup_x": 8.57
+    }
+  ]
+}

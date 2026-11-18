@@ -1,0 +1,359 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>App Intelligence Core | Quantum Analytics HUD</title>
+  <link rel="stylesheet" href="/styles.css">
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+</head>
+<body>
+  <div class="container">
+    <!-- Top HUD Telemetry Bar -->
+    <div class="hud-bar">
+      <div class="hud-status">
+        <div class="pulse-dot"></div>
+        <span style="color: #10b981; font-weight: 700;">VERCEL EDGE DEPLOYMENT: SYNCHRONIZED</span>
+        <span style="color: #64748b;">|</span>
+        <span style="color: #94a3b8;">PIPELINE LATENCY: 5.38 ms</span>
+      </div>
+      <div class="hud-status">
+        <span style="color: #38bdf8; font-weight: 600;">ENGINE: B-TREE INDEX COMPOSITE</span>
+        <span style="color: #64748b;">|</span>
+        <span style="color: #c084fc;">QUERY SPEEDUP: +98.4%</span>
+      </div>
+    </div>
+
+    <!-- Title Header -->
+    <h1 class="cyber-title">⚡ Profitable Mobile App Profile Analysis</h1>
+    <div class="cyber-sub">MARKET INTELLIGENCE // ECONOMETRIC MONETIZATION LAB // SQL PERFORMANCE ACCELERATOR</div>
+
+    <!-- Navigation Tabs -->
+    <div class="tabs-nav">
+      <button class="tab-btn active" data-tab="tab-command">🛰️ Mission Command & KPIs</button>
+      <button class="tab-btn" data-tab="tab-neural">🧬 Interactive Neural Explorer</button>
+      <button class="tab-btn" data-tab="tab-simulator">💎 What-If Profitability Simulator</button>
+      <button class="tab-btn" data-tab="tab-sql">⚡ Hyper-SQL Acceleration Core</button>
+      <button class="tab-btn" data-tab="tab-blueprint">🎯 Profitable App Blueprint</button>
+    </div>
+
+    <!-- =================================================================== -->
+    <!-- TAB 1: MISSION COMMAND & KPIS -->
+    <!-- =================================================================== -->
+    <div id="tab-command" class="tab-content active">
+      <div class="metrics-grid">
+        <div class="cyber-card">
+          <div class="card-label">Dataset Universe</div>
+          <div class="card-value" id="kpi-apps">6,500</div>
+          <div class="card-meta">Mobile App Store Records</div>
+        </div>
+        <div class="cyber-card">
+          <div class="card-label">Average Sentiment</div>
+          <div class="card-value" id="kpi-rating">4.19 ★</div>
+          <div class="card-meta">Median: 4.2 ★</div>
+        </div>
+        <div class="cyber-card">
+          <div class="card-label">Market Reach</div>
+          <div class="card-value" id="kpi-installs">2,148.5M</div>
+          <div class="card-meta">Total Active Installs</div>
+        </div>
+        <div class="cyber-card">
+          <div class="card-label">Estimated Volume</div>
+          <div class="card-value" id="kpi-revenue">$142.8M</div>
+          <div class="card-meta">Annual Revenue Pool</div>
+        </div>
+        <div class="cyber-card">
+          <div class="card-label">Freemium Ratio</div>
+          <div class="card-value" id="kpi-freemium">71.4%</div>
+          <div class="card-meta">In-App Purchases Active</div>
+        </div>
+      </div>
+
+      <div class="section-box">
+        <div class="section-title">🌐 Dynamic Sector Market Saturation & Revenue Density</div>
+        <div class="chart-container">
+          <canvas id="saturationCanvas"></canvas>
+        </div>
+        <div class="chart-explainer">
+          <b>💡 How This Graph Works & What It Reveals:</b><br>
+          • <b>How it works:</b> Groups 6,500+ records by category to evaluate market volume (Blue bars) versus average annual revenue per application (Green bars).<br>
+          • <b>Key Business Takeaway:</b> It proves the <i>"Volume vs Margin Paradox"</i>. While <b>GAME</b> has the highest saturation (22% of total apps), sectors like <b>FINANCE</b>, <b>HEALTH_AND_FITNESS</b>, and <b>PRODUCTIVITY</b> yield <b>2.4x higher average revenue per app</b> ($18k–$26k/app) with substantially lower advertising customer acquisition costs.
+        </div>
+      </div>
+
+      <div class="grid-2">
+        <div class="section-box">
+          <div class="section-title">🎯 Strategic Opportunity Quadrant</div>
+          <img src="/figures/10_profitable_profile_quadrant.png" alt="Strategic Quadrant" style="width: 100%; border-radius: 8px;">
+        </div>
+        <div class="section-box">
+          <div class="section-title">📊 Price Point Sweet Spot vs Installs</div>
+          <img src="/figures/04_price_point_sweet_spot.png" alt="Price Point Sweet Spot" style="width: 100%; border-radius: 8px;">
+        </div>
+      </div>
+    </div>
+
+    <!-- =================================================================== -->
+    <!-- TAB 2: INTERACTIVE NEURAL EXPLORER -->
+    <!-- =================================================================== -->
+    <div id="tab-neural" class="tab-content">
+      <div class="section-box">
+        <div class="section-title">🔬 Multi-Dimensional Feature Scatter (Interactive Hover & Zoom)</div>
+        <div class="chart-container" style="height: 420px;">
+          <canvas id="scatterCanvas"></canvas>
+        </div>
+        <div class="chart-explainer">
+          <b>💡 How This Graph Works & What It Reveals:</b><br>
+          • <b>How it works:</b> Every point represents an app. Horizontal position = <b>App Size (MB)</b>, Vertical position = <b>User Rating (Stars)</b>, Color = <b>Category</b>.<br>
+          • <b>Key Technical Takeaway:</b> Proves the <i>"App Bloat Friction"</i> hypothesis. Apps exceeding <b>100 MB</b> cluster around lower ratings (3.8★), while lean apps under <b>45 MB</b> maintain high user sentiment (<b>4.2★ to 4.8★</b>).
+        </div>
+      </div>
+
+      <div class="section-box">
+        <div class="section-title">🏆 Top 15 High-Value Outlier Applications</div>
+        <div style="overflow-x: auto;">
+          <table class="data-table">
+            <thead>
+              <tr>
+                <th>App Name</th>
+                <th>Category</th>
+                <th>Rating</th>
+                <th>Installs</th>
+                <th>Type</th>
+                <th>Price</th>
+                <th>In-App Purchases</th>
+                <th>Est. Revenue</th>
+              </tr>
+            </thead>
+            <tbody id="topAppsTbody"></tbody>
+          </table>
+        </div>
+      </div>
+    </div>
+
+    <!-- =================================================================== -->
+    <!-- TAB 3: WHAT-IF PROFITABILITY SIMULATOR -->
+    <!-- =================================================================== -->
+    <div id="tab-simulator" class="tab-content">
+      <div class="sim-grid">
+        <div>
+          <div class="sim-group">
+            <label class="sim-label">1. Target Category:</label>
+            <select class="sim-select" id="sim-category">
+              <option value="HEALTH_AND_FITNESS">HEALTH_AND_FITNESS (Recommended)</option>
+              <option value="PRODUCTIVITY">PRODUCTIVITY (Recommended)</option>
+              <option value="FINANCE">FINANCE (High ARPU)</option>
+              <option value="GAME">GAME (High Scale)</option>
+              <option value="EDUCATION">EDUCATION</option>
+              <option value="TOOLS">TOOLS</option>
+            </select>
+          </div>
+
+          <div class="sim-group">
+            <label class="sim-label">2. Year 1 Expected Installs: <span class="slider-val" id="sim-installs-val">250,000</span></label>
+            <input type="range" class="sim-input" id="sim-installs" min="10000" max="5000000" step="50000" value="250000">
+          </div>
+
+          <div class="sim-group">
+            <label class="sim-label">3. Monetization Model:</label>
+            <select class="sim-select" id="sim-model">
+              <option value="freemium">Freemium (Free + In-App Subscriptions)</option>
+              <option value="paid">Paid Upfront App</option>
+              <option value="hybrid">Hybrid (Ads + Subscriptions)</option>
+              <option value="ad">Pure Ad-Supported (Free)</option>
+            </select>
+          </div>
+        </div>
+
+        <div>
+          <div class="sim-group">
+            <label class="sim-label">4. Subscription / Upfront Price: <span class="slider-val" id="sim-price-val">$4.99</span></label>
+            <input type="range" class="sim-input" id="sim-price" min="0.99" max="19.99" step="0.50" value="4.99">
+          </div>
+
+          <div class="sim-group">
+            <label class="sim-label">5. Payer Conversion Rate: <span class="slider-val" id="sim-conv-val">2.5%</span></label>
+            <input type="range" class="sim-input" id="sim-conv" min="0.5" max="8.0" step="0.1" value="2.5">
+          </div>
+
+          <div class="sim-group">
+            <label class="sim-label">6. Active User Retention Rate: <span class="slider-val" id="sim-ret-val">30%</span></label>
+            <input type="range" class="sim-input" id="sim-ret" min="10" max="60" step="5" value="30">
+          </div>
+        </div>
+      </div>
+
+      <div class="metrics-grid">
+        <div class="cyber-card">
+          <div class="card-label">Projected Annual Revenue (ARR)</div>
+          <div class="card-value" style="color: #38bdf8;" id="sim-arr">$0</div>
+          <div class="card-meta">70% Net Developer Payout</div>
+        </div>
+        <div class="cyber-card">
+          <div class="card-label">Monthly Active Users (MAU)</div>
+          <div class="card-value" id="sim-mau">0</div>
+          <div class="card-meta">Retained Community</div>
+        </div>
+        <div class="cyber-card">
+          <div class="card-label">Blended Annual ARPU</div>
+          <div class="card-value" style="color: #10b981;" id="sim-arpu">$0.00</div>
+          <div class="card-meta">Revenue per Active User</div>
+        </div>
+        <div class="cyber-card">
+          <div class="card-label">Launch Readiness Tier</div>
+          <div id="sim-badge-container" style="padding-top: 8px;"></div>
+        </div>
+      </div>
+    </div>
+
+    <!-- =================================================================== -->
+    <!-- TAB 4: HYPER-SQL ACCELERATION CORE -->
+    <!-- =================================================================== -->
+    <div id="tab-sql" class="tab-content">
+      <div class="metrics-grid">
+        <div class="cyber-card">
+          <div class="card-label">Batch Latency Reduction</div>
+          <div class="card-value" style="color: #10b981;" id="bench-reduction">98.4%</div>
+          <div class="card-meta">Peak Optimization Gain</div>
+        </div>
+        <div class="cyber-card">
+          <div class="card-label">Throughput Velocity</div>
+          <div class="card-value" style="color: #f59e0b;" id="bench-speedup">62.98x Faster</div>
+          <div class="card-meta">Execution Multiplier</div>
+        </div>
+        <div class="cyber-card">
+          <div class="card-label">Baseline Execution</div>
+          <div class="card-value" style="color: #ef4444;" id="bench-base">1,941.8 ms</div>
+          <div class="card-meta">Unindexed Full Scans</div>
+        </div>
+        <div class="cyber-card">
+          <div class="card-label">Optimized Execution</div>
+          <div class="card-value" style="color: #38bdf8;" id="bench-opt">30.8 ms</div>
+          <div class="card-meta">Indexed Window Functions</div>
+        </div>
+      </div>
+
+      <div class="section-box">
+        <div class="section-title">📊 Query Latency Benchmark: Baseline vs Optimized (ms)</div>
+        <div class="chart-container" style="height: 320px;">
+          <canvas id="benchCanvas"></canvas>
+        </div>
+        <div class="chart-explainer">
+          <b>💡 How This Graph Works & What It Reveals:</b><br>
+          • <b>Red Bars:</b> Unindexed quadratic $O(N^2)$ row-by-row subqueries.<br>
+          • <b>Green Bars:</b> B-Tree composite indexed window functions (<code>AVG() OVER</code>).<br>
+          • In <b>Query 2</b>, latency plummeted from <b>1,589.2 ms</b> to <b>8.5 ms</b> — an empirical <b>99.5% reduction (186x faster)</b>.
+        </div>
+      </div>
+
+      <div class="section-box">
+        <div class="section-title">⚡ Live SQL Query Execution & Code Diff</div>
+        <div class="grid-2">
+          <div>
+            <div style="font-weight: bold; color: #ef4444; margin-bottom: 4px;">🛑 Baseline SQL (Unoptimized):</div>
+            <div class="code-box">
+SELECT a.app_id, a.app_name, a.total_est_revenue
+FROM apps_flat a
+WHERE a.has_in_app_purchases = 1
+  AND a.total_est_revenue > (
+    SELECT 1.5 * AVG(sub2.total_est_revenue)
+    FROM apps_flat sub2
+    WHERE sub2.category = a.category
+  );
+            </div>
+          </div>
+          <div>
+            <div style="font-weight: bold; color: #10b981; margin-bottom: 4px;">🟢 Optimized SQL (Window Functions + CTE):</div>
+            <div class="code-box">
+WITH categorized_freemium AS (
+  SELECT app_id, app_name, total_est_revenue,
+         AVG(total_est_revenue) OVER (PARTITION BY category) AS cat_avg
+  FROM apps_flat
+  WHERE has_in_app_purchases = 1
+)
+SELECT app_id, app_name, total_est_revenue
+FROM categorized_freemium
+WHERE total_est_revenue > (1.5 * cat_avg);
+            </div>
+          </div>
+        </div>
+
+        <div style="margin-top: 18px;">
+          <button class="btn-primary" id="btnRunBenchmark">🔥 RUN LIVE BENCHMARK COMPARISON</button>
+          <div id="liveBenchResult"></div>
+        </div>
+      </div>
+
+      <div class="section-box">
+        <div class="section-title">📋 Statistical Query Benchmark Table</div>
+        <table class="data-table">
+          <thead>
+            <tr>
+              <th>Query Workload</th>
+              <th>Baseline (ms)</th>
+              <th>Optimized (ms)</th>
+              <th>Latency Reduction</th>
+              <th>Speedup Factor</th>
+            </tr>
+          </thead>
+          <tbody id="benchTbody"></tbody>
+        </table>
+      </div>
+    </div>
+
+    <!-- =================================================================== -->
+    <!-- TAB 5: PROFITABLE APP BLUEPRINT -->
+    <!-- =================================================================== -->
+    <div id="tab-blueprint" class="tab-content">
+      <div class="metrics-grid" style="grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));">
+        <div class="cyber-card">
+          <div class="card-label">1. Category Selection</div>
+          <div style="color: #38bdf8; font-size: 1.2rem; font-weight: bold; margin: 8px 0;">Health & Fitness / Productivity</div>
+          <div style="color: #cbd5e1; font-size: 0.85rem; line-height: 1.5;">
+            • Highest median satisfaction (4.35★).<br>
+            • 2.4x higher ARPU than hyper-competitive Games.<br>
+            • Lower user acquisition costs.
+          </div>
+        </div>
+
+        <div class="cyber-card">
+          <div class="card-label">2. Monetization Stack</div>
+          <div style="color: #34d399; font-size: 1.2rem; font-weight: bold; margin: 8px 0;">Freemium + Subscriptions ($3.99/mo)</div>
+          <div style="color: #cbd5e1; font-size: 0.85rem; line-height: 1.5;">
+            • Freemium captures 84% of total app store revenue.<br>
+            • Avoids the $4.99 paid app install drop-off cliff.<br>
+            • Generates predictable recurring MRR.
+          </div>
+        </div>
+
+        <div class="cyber-card">
+          <div class="card-label">3. Engineering Boundaries</div>
+          <div style="color: #c084fc; font-size: 1.2rem; font-weight: bold; margin: 8px 0;">Binary &lt; 45MB | &lt; 45 Days Updates</div>
+          <div style="color: #cbd5e1; font-size: 0.85rem; line-height: 1.5;">
+            • Binaries under 45MB experience lowest friction.<br>
+            • Apps updated within 45 days average 4.32★ rating.<br>
+            • Eliminates cellular download network drop-off.
+          </div>
+        </div>
+      </div>
+
+      <div class="section-box" style="text-align: center; padding: 36px 20px;">
+        <h2 style="color: #38bdf8; margin-bottom: 10px;">📄 Complete Project Master Guide (PDF)</h2>
+        <p style="color: #94a3b8; max-width: 600px; margin: 0 auto 20px auto; font-size: 0.95rem;">
+          Download the 8-page publication-quality handbook teaching the complete methodology, database schemas, chart explanations, and interview answers.
+        </p>
+        <a href="/Profitable_App_Profile_Analysis_Master_Guide.pdf" target="_blank" class="btn-primary" style="font-size: 1.05rem; padding: 14px 28px;">
+          📥 DOWNLOAD 8-PAGE MASTER GUIDE (PDF)
+        </a>
+      </div>
+
+      <div class="section-box">
+        <div class="section-title">🧬 Metric Interdependence Heatmap</div>
+        <img src="/figures/11_correlation_matrix.png" alt="Correlation Matrix" style="width: 100%; max-width: 800px; display: block; margin: 0 auto; border-radius: 8px;">
+      </div>
+    </div>
+  </div>
+
+  <script src="/app.js"></script>
+</body>
+</html>

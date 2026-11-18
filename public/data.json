@@ -1,0 +1,4296 @@
+{
+  "summary": {
+    "total_apps": 6500,
+    "avg_rating": 4.2,
+    "total_installs": 9606781000,
+    "total_revenue": 3546680698.47,
+    "freemium_pct": 67.9
+  },
+  "categories": [
+    {
+      "category": "GAME",
+      "total_apps": 1460,
+      "avg_rating": 4.24,
+      "avg_installs": 1750314.0,
+      "avg_revenue": 592136.97,
+      "total_revenue": 864519980.15
+    },
+    {
+      "category": "PRODUCTIVITY",
+      "total_apps": 676,
+      "avg_rating": 4.22,
+      "avg_installs": 1231765.0,
+      "avg_revenue": 453293.64,
+      "total_revenue": 306426497.68
+    },
+    {
+      "category": "HEALTH_AND_FITNESS",
+      "total_apps": 599,
+      "avg_rating": 4.37,
+      "avg_installs": 1783856.0,
+      "avg_revenue": 939147.34,
+      "total_revenue": 562549254.23
+    },
+    {
+      "category": "EDUCATION",
+      "total_apps": 581,
+      "avg_rating": 4.28,
+      "avg_installs": 1447260.0,
+      "avg_revenue": 632365.74,
+      "total_revenue": 367404494.72
+    },
+    {
+      "category": "TOOLS",
+      "total_apps": 566,
+      "avg_rating": 4.05,
+      "avg_installs": 1997509.0,
+      "avg_revenue": 275878.47,
+      "total_revenue": 156147214.86
+    },
+    {
+      "category": "FINANCE",
+      "total_apps": 551,
+      "avg_rating": 4.15,
+      "avg_installs": 1327225.0,
+      "avg_revenue": 417383.31,
+      "total_revenue": 229978204.4
+    },
+    {
+      "category": "ENTERTAINMENT",
+      "total_apps": 522,
+      "avg_rating": 4.12,
+      "avg_installs": 1375762.0,
+      "avg_revenue": 306658.87,
+      "total_revenue": 160075931.97
+    },
+    {
+      "category": "PHOTOGRAPHY",
+      "total_apps": 447,
+      "avg_rating": 4.16,
+      "avg_installs": 1256989.0,
+      "avg_revenue": 527248.61,
+      "total_revenue": 235680127.54
+    },
+    {
+      "category": "SOCIAL",
+      "total_apps": 442,
+      "avg_rating": 4.06,
+      "avg_installs": 910534.0,
+      "avg_revenue": 508405.14,
+      "total_revenue": 224715071.63
+    },
+    {
+      "category": "BUSINESS",
+      "total_apps": 330,
+      "avg_rating": 4.22,
+      "avg_installs": 1275188.0,
+      "avg_revenue": 1097580.24,
+      "total_revenue": 362201478.61
+    },
+    {
+      "category": "LIFESTYLE",
+      "total_apps": 326,
+      "avg_rating": 4.17,
+      "avg_installs": 1055460.0,
+      "avg_revenue": 236142.46,
+      "total_revenue": 76982442.68
+    }
+  ],
+  "scatter": [
+    {
+      "app_name": "Show Tube X",
+      "category": "ENTERTAINMENT",
+      "size_mb": 36.1,
+      "rating": 3.9,
+      "installs": 5000,
+      "total_est_revenue": 132.6
+    },
+    {
+      "app_name": "Easy Scan Lite",
+      "category": "TOOLS",
+      "size_mb": 15.8,
+      "rating": 3.5,
+      "installs": 5000,
+      "total_est_revenue": 1274.02
+    },
+    {
+      "app_name": "Super Legends #6485",
+      "category": "GAME",
+      "size_mb": 300.9,
+      "rating": 4.0,
+      "installs": 1000000,
+      "total_est_revenue": 173909.31
+    },
+    {
+      "app_name": "Smart Flow Max",
+      "category": "FINANCE",
+      "size_mb": 17.7,
+      "rating": 3.5,
+      "installs": 100000,
+      "total_est_revenue": 28337.84
+    },
+    {
+      "app_name": "Pixel Quest #4935",
+      "category": "GAME",
+      "size_mb": 146.3,
+      "rating": 5.0,
+      "installs": 10000,
+      "total_est_revenue": 4453.35
+    },
+    {
+      "app_name": "Fast Utility HD",
+      "category": "TOOLS",
+      "size_mb": 15.5,
+      "rating": 3.6,
+      "installs": 5000,
+      "total_est_revenue": 842.61
+    },
+    {
+      "app_name": "Vital Health Go",
+      "category": "HEALTH_AND_FITNESS",
+      "size_mb": 51.3,
+      "rating": 3.8,
+      "installs": 100000,
+      "total_est_revenue": 39526.23
+    },
+    {
+      "app_name": "Retro Shot 3D",
+      "category": "PHOTOGRAPHY",
+      "size_mb": 48.4,
+      "rating": 4.1,
+      "installs": 100000,
+      "total_est_revenue": 245928.93
+    },
+    {
+      "app_name": "Smart Advisor 2026",
+      "category": "FINANCE",
+      "size_mb": 51.5,
+      "rating": 3.3,
+      "installs": 100000,
+      "total_est_revenue": 4835.76
+    },
+    {
+      "app_name": "Glam FX X",
+      "category": "PHOTOGRAPHY",
+      "size_mb": 32.4,
+      "rating": 4.3,
+      "installs": 50000,
+      "total_est_revenue": 55183.68
+    },
+    {
+      "app_name": "Cash Pro 2026",
+      "category": "FINANCE",
+      "size_mb": 20.0,
+      "rating": 3.8,
+      "installs": 50000,
+      "total_est_revenue": 20573.45
+    },
+    {
+      "app_name": "Iron Habit Go",
+      "category": "HEALTH_AND_FITNESS",
+      "size_mb": 63.9,
+      "rating": 4.3,
+      "installs": 5000,
+      "total_est_revenue": 1744.11
+    },
+    {
+      "app_name": "Binge Zone X",
+      "category": "ENTERTAINMENT",
+      "size_mb": 93.3,
+      "rating": 3.9,
+      "installs": 5000000,
+      "total_est_revenue": 1815119.95
+    },
+    {
+      "app_name": "Stream Zone Max",
+      "category": "ENTERTAINMENT",
+      "size_mb": 90.4,
+      "rating": 4.5,
+      "installs": 1000000,
+      "total_est_revenue": 388121.34
+    },
+    {
+      "app_name": "Shadow Craft AI",
+      "category": "GAME",
+      "size_mb": 199.0,
+      "rating": 4.1,
+      "installs": 50000,
+      "total_est_revenue": 21722.17
+    },
+    {
+      "app_name": "Turbo Kit Lite",
+      "category": "TOOLS",
+      "size_mb": 36.6,
+      "rating": 4.1,
+      "installs": 5000,
+      "total_est_revenue": 254.54
+    },
+    {
+      "app_name": "Kingdom Legends HD",
+      "category": "GAME",
+      "size_mb": 272.3,
+      "rating": 4.3,
+      "installs": 5000,
+      "total_est_revenue": 2111.72
+    },
+    {
+      "app_name": "Dragon Arena #5014",
+      "category": "GAME",
+      "size_mb": 92.8,
+      "rating": 4.8,
+      "installs": 500000,
+      "total_est_revenue": 207345.03
+    },
+    {
+      "app_name": "Chroma Frames X",
+      "category": "PHOTOGRAPHY",
+      "size_mb": 48.2,
+      "rating": 3.9,
+      "installs": 1000000,
+      "total_est_revenue": 2093000.0
+    },
+    {
+      "app_name": "Dragon Master 3D",
+      "category": "GAME",
+      "size_mb": 211.7,
+      "rating": 4.4,
+      "installs": 1000,
+      "total_est_revenue": 458.1
+    },
+    {
+      "app_name": "Clash of Master #4827",
+      "category": "GAME",
+      "size_mb": 166.3,
+      "rating": 3.9,
+      "installs": 10000000,
+      "total_est_revenue": 3699876.34
+    },
+    {
+      "app_name": "Client Pro X",
+      "category": "BUSINESS",
+      "size_mb": 81.0,
+      "rating": 4.3,
+      "installs": 1000000,
+      "total_est_revenue": 442592.24
+    },
+    {
+      "app_name": "Super Chronicles #4776",
+      "category": "GAME",
+      "size_mb": 134.1,
+      "rating": 3.6,
+      "installs": 10000,
+      "total_est_revenue": 13930.0
+    },
+    {
+      "app_name": "Master Skills 3D",
+      "category": "EDUCATION",
+      "size_mb": 57.7,
+      "rating": 4.4,
+      "installs": 100000,
+      "total_est_revenue": 1872.22
+    },
+    {
+      "app_name": "Ledger Direct 2026",
+      "category": "FINANCE",
+      "size_mb": 53.8,
+      "rating": 3.5,
+      "installs": 100000,
+      "total_est_revenue": 110690.98
+    },
+    {
+      "app_name": "Speak Studio 3D",
+      "category": "EDUCATION",
+      "size_mb": 58.7,
+      "rating": 3.9,
+      "installs": 5000,
+      "total_est_revenue": 173.07
+    },
+    {
+      "app_name": "Pulse Routine HD",
+      "category": "HEALTH_AND_FITNESS",
+      "size_mb": 85.8,
+      "rating": 4.4,
+      "installs": 5000,
+      "total_est_revenue": 2599.33
+    },
+    {
+      "app_name": "Clash of Empire #4862",
+      "category": "GAME",
+      "size_mb": 245.5,
+      "rating": 4.2,
+      "installs": 1000000,
+      "total_est_revenue": 248322.19
+    },
+    {
+      "app_name": "Smart Notes Lite",
+      "category": "PRODUCTIVITY",
+      "size_mb": 20.0,
+      "rating": 4.1,
+      "installs": 500000,
+      "total_est_revenue": 274795.24
+    },
+    {
+      "app_name": "Sale Point Lite",
+      "category": "BUSINESS",
+      "size_mb": 37.4,
+      "rating": 3.6,
+      "installs": 1000,
+      "total_est_revenue": 1362.93
+    },
+    {
+      "app_name": "Wealth Direct 3D",
+      "category": "FINANCE",
+      "size_mb": 36.3,
+      "rating": 4.6,
+      "installs": 10000,
+      "total_est_revenue": 1190.31
+    },
+    {
+      "app_name": "Budget Advisor Max",
+      "category": "FINANCE",
+      "size_mb": 52.5,
+      "rating": 4.1,
+      "installs": 500000,
+      "total_est_revenue": 22012.81
+    },
+    {
+      "app_name": "Smart Tracker Go",
+      "category": "PRODUCTIVITY",
+      "size_mb": 20.4,
+      "rating": 4.9,
+      "installs": 100000,
+      "total_est_revenue": 37754.46
+    },
+    {
+      "app_name": "Dragon Warriors Go",
+      "category": "GAME",
+      "size_mb": 104.9,
+      "rating": 3.4,
+      "installs": 1000,
+      "total_est_revenue": 405.16
+    },
+    {
+      "app_name": "Sync Desk HD",
+      "category": "PRODUCTIVITY",
+      "size_mb": 41.4,
+      "rating": 4.1,
+      "installs": 50000,
+      "total_est_revenue": 770.03
+    },
+    {
+      "app_name": "Pure Log",
+      "category": "HEALTH_AND_FITNESS",
+      "size_mb": 42.6,
+      "rating": 4.8,
+      "installs": 10000000,
+      "total_est_revenue": 6809283.5
+    },
+    {
+      "app_name": "Pure Health X",
+      "category": "HEALTH_AND_FITNESS",
+      "size_mb": 77.5,
+      "rating": 4.1,
+      "installs": 500000,
+      "total_est_revenue": 11688.4
+    },
+    {
+      "app_name": "Safe Kit",
+      "category": "TOOLS",
+      "size_mb": 5.2,
+      "rating": 3.8,
+      "installs": 10000,
+      "total_est_revenue": 304.2
+    },
+    {
+      "app_name": "Epic Master X",
+      "category": "GAME",
+      "size_mb": 249.6,
+      "rating": 4.1,
+      "installs": 5000,
+      "total_est_revenue": 2977.96
+    },
+    {
+      "app_name": "Clash of Chronicles X",
+      "category": "GAME",
+      "size_mb": 151.6,
+      "rating": 4.8,
+      "installs": 5000,
+      "total_est_revenue": 1002.53
+    },
+    {
+      "app_name": "Pop Box 3D",
+      "category": "ENTERTAINMENT",
+      "size_mb": 77.8,
+      "rating": 4.7,
+      "installs": 50000,
+      "total_est_revenue": 1830.24
+    },
+    {
+      "app_name": "Easy Optimizer X",
+      "category": "TOOLS",
+      "size_mb": 27.3,
+      "rating": 4.0,
+      "installs": 5000,
+      "total_est_revenue": 176.07
+    },
+    {
+      "app_name": "Cinema Now X",
+      "category": "ENTERTAINMENT",
+      "size_mb": 70.6,
+      "rating": 4.3,
+      "installs": 500000,
+      "total_est_revenue": 93609.85
+    },
+    {
+      "app_name": "Clean WorkSpace AI",
+      "category": "PRODUCTIVITY",
+      "size_mb": 51.2,
+      "rating": 4.0,
+      "installs": 100000,
+      "total_est_revenue": 15438.42
+    },
+    {
+      "app_name": "Scale Direct Lite",
+      "category": "BUSINESS",
+      "size_mb": 55.2,
+      "rating": 4.4,
+      "installs": 1000000,
+      "total_est_revenue": 289095.42
+    },
+    {
+      "app_name": "Quiz Flashcards HD",
+      "category": "EDUCATION",
+      "size_mb": 27.5,
+      "rating": 4.0,
+      "installs": 100000,
+      "total_est_revenue": 59045.68
+    },
+    {
+      "app_name": "Epic Empire #5701",
+      "category": "GAME",
+      "size_mb": 32.1,
+      "rating": 4.5,
+      "installs": 5000000,
+      "total_est_revenue": 1000967.73
+    },
+    {
+      "app_name": "Legend of Battle #4505",
+      "category": "GAME",
+      "size_mb": 274.4,
+      "rating": 4.0,
+      "installs": 10000,
+      "total_est_revenue": 4047.6
+    },
+    {
+      "app_name": "Sync Spot Max",
+      "category": "SOCIAL",
+      "size_mb": 102.9,
+      "rating": 3.8,
+      "installs": 100000,
+      "total_est_revenue": 32161.22
+    },
+    {
+      "app_name": "Cozy Corner Go",
+      "category": "LIFESTYLE",
+      "size_mb": 56.8,
+      "rating": 4.0,
+      "installs": 50000,
+      "total_est_revenue": 2108.23
+    },
+    {
+      "app_name": "Pocket Guard X",
+      "category": "FINANCE",
+      "size_mb": 51.7,
+      "rating": 4.6,
+      "installs": 100000,
+      "total_est_revenue": 130212.6
+    },
+    {
+      "app_name": "Smart Utility X",
+      "category": "TOOLS",
+      "size_mb": 14.0,
+      "rating": 4.4,
+      "installs": 1000000,
+      "total_est_revenue": 50500.41
+    },
+    {
+      "app_name": "Fast Boost Lite",
+      "category": "TOOLS",
+      "size_mb": 43.8,
+      "rating": 3.9,
+      "installs": 100000,
+      "total_est_revenue": 2553.04
+    },
+    {
+      "app_name": "Dragon Run Lite",
+      "category": "GAME",
+      "size_mb": 55.5,
+      "rating": 4.1,
+      "installs": 1000000,
+      "total_est_revenue": 616982.99
+    },
+    {
+      "app_name": "Circle Social 2026",
+      "category": "SOCIAL",
+      "size_mb": 119.3,
+      "rating": 3.9,
+      "installs": 5000,
+      "total_est_revenue": 2959.41
+    },
+    {
+      "app_name": "Power Helper Go",
+      "category": "TOOLS",
+      "size_mb": 8.6,
+      "rating": 3.5,
+      "installs": 100000,
+      "total_est_revenue": 28526.05
+    },
+    {
+      "app_name": "Quick Desk AI",
+      "category": "PRODUCTIVITY",
+      "size_mb": 26.7,
+      "rating": 4.1,
+      "installs": 100000,
+      "total_est_revenue": 28544.95
+    },
+    {
+      "app_name": "Dream Path HD",
+      "category": "LIFESTYLE",
+      "size_mb": 63.1,
+      "rating": 4.9,
+      "installs": 50000,
+      "total_est_revenue": 1634.85
+    },
+    {
+      "app_name": "Smart Desk X",
+      "category": "PRODUCTIVITY",
+      "size_mb": 37.0,
+      "rating": 4.5,
+      "installs": 5000,
+      "total_est_revenue": 758.49
+    },
+    {
+      "app_name": "Organize Assistant 3D",
+      "category": "PRODUCTIVITY",
+      "size_mb": 26.1,
+      "rating": 4.7,
+      "installs": 50000,
+      "total_est_revenue": 15514.14
+    },
+    {
+      "app_name": "Client CRM 2026",
+      "category": "BUSINESS",
+      "size_mb": 85.7,
+      "rating": 4.2,
+      "installs": 1000,
+      "total_est_revenue": 644.13
+    },
+    {
+      "app_name": "Sync Manager Lite",
+      "category": "PRODUCTIVITY",
+      "size_mb": 59.6,
+      "rating": 4.3,
+      "installs": 1000000,
+      "total_est_revenue": 23342.93
+    },
+    {
+      "app_name": "Smart Manager HD",
+      "category": "PRODUCTIVITY",
+      "size_mb": 33.6,
+      "rating": 4.4,
+      "installs": 100000,
+      "total_est_revenue": 139300.0
+    },
+    {
+      "app_name": "Dragon Quest Lite",
+      "category": "GAME",
+      "size_mb": 175.1,
+      "rating": 3.3,
+      "installs": 5000,
+      "total_est_revenue": 699.24
+    },
+    {
+      "app_name": "Circle Vibe Go",
+      "category": "SOCIAL",
+      "size_mb": 60.1,
+      "rating": 5.0,
+      "installs": 10000,
+      "total_est_revenue": 12810.66
+    },
+    {
+      "app_name": "Kids Junior 3D",
+      "category": "EDUCATION",
+      "size_mb": 21.6,
+      "rating": 4.3,
+      "installs": 500000,
+      "total_est_revenue": 13599.85
+    },
+    {
+      "app_name": "Focus Notes HD",
+      "category": "PRODUCTIVITY",
+      "size_mb": 33.9,
+      "rating": 4.3,
+      "installs": 5000,
+      "total_est_revenue": 3192.52
+    },
+    {
+      "app_name": "Kingdom Warriors Lite",
+      "category": "GAME",
+      "size_mb": 43.8,
+      "rating": 4.4,
+      "installs": 50000,
+      "total_est_revenue": 16105.13
+    },
+    {
+      "app_name": "Task Assistant Lite",
+      "category": "PRODUCTIVITY",
+      "size_mb": 69.8,
+      "rating": 4.5,
+      "installs": 100000,
+      "total_est_revenue": 23025.9
+    },
+    {
+      "app_name": "Super Utility 3D",
+      "category": "TOOLS",
+      "size_mb": 24.4,
+      "rating": 3.5,
+      "installs": 1000,
+      "total_est_revenue": 137.16
+    },
+    {
+      "app_name": "Chic Corner AI",
+      "category": "LIFESTYLE",
+      "size_mb": 22.2,
+      "rating": 4.8,
+      "installs": 1000,
+      "total_est_revenue": 241.34
+    },
+    {
+      "app_name": "Team Direct X",
+      "category": "BUSINESS",
+      "size_mb": 72.9,
+      "rating": 4.4,
+      "installs": 1000000,
+      "total_est_revenue": 56706.05
+    },
+    {
+      "app_name": "Pocket Flow Lite",
+      "category": "FINANCE",
+      "size_mb": 21.8,
+      "rating": 4.3,
+      "installs": 1000,
+      "total_est_revenue": 104.38
+    },
+    {
+      "app_name": "Quick Hub Max",
+      "category": "PRODUCTIVITY",
+      "size_mb": 49.1,
+      "rating": 4.3,
+      "installs": 50000,
+      "total_est_revenue": 902.74
+    },
+    {
+      "app_name": "Wink Vibe AI",
+      "category": "SOCIAL",
+      "size_mb": 31.7,
+      "rating": 3.4,
+      "installs": 50000,
+      "total_est_revenue": 4551.64
+    },
+    {
+      "app_name": "Sync Plus Lite",
+      "category": "PRODUCTIVITY",
+      "size_mb": 39.9,
+      "rating": 4.3,
+      "installs": 1000,
+      "total_est_revenue": 19.73
+    },
+    {
+      "app_name": "Daily Habit Max",
+      "category": "HEALTH_AND_FITNESS",
+      "size_mb": 26.8,
+      "rating": 4.7,
+      "installs": 500000,
+      "total_est_revenue": 193835.53
+    },
+    {
+      "app_name": "Stream Zone X",
+      "category": "ENTERTAINMENT",
+      "size_mb": 85.4,
+      "rating": 4.0,
+      "installs": 5000,
+      "total_est_revenue": 1571.7
+    },
+    {
+      "app_name": "Smart Direct Max",
+      "category": "FINANCE",
+      "size_mb": 74.3,
+      "rating": 3.7,
+      "installs": 1000,
+      "total_est_revenue": 2191.54
+    },
+    {
+      "app_name": "Smart Guard 2026",
+      "category": "FINANCE",
+      "size_mb": 15.6,
+      "rating": 4.3,
+      "installs": 50000,
+      "total_est_revenue": 3915.99
+    },
+    {
+      "app_name": "Fast Shield 3D",
+      "category": "TOOLS",
+      "size_mb": 15.4,
+      "rating": 4.1,
+      "installs": 1000,
+      "total_est_revenue": 325.6
+    },
+    {
+      "app_name": "Pro Hub HD",
+      "category": "PRODUCTIVITY",
+      "size_mb": 59.2,
+      "rating": 4.2,
+      "installs": 1000,
+      "total_est_revenue": 16.06
+    },
+    {
+      "app_name": "Edu Explorer 3D",
+      "category": "EDUCATION",
+      "size_mb": 121.5,
+      "rating": 3.9,
+      "installs": 5000,
+      "total_est_revenue": 929.09
+    },
+    {
+      "app_name": "Stream Wave X",
+      "category": "ENTERTAINMENT",
+      "size_mb": 57.5,
+      "rating": 4.1,
+      "installs": 10000,
+      "total_est_revenue": 519.5
+    },
+    {
+      "app_name": "Scale Pro",
+      "category": "BUSINESS",
+      "size_mb": 20.4,
+      "rating": 4.4,
+      "installs": 5000,
+      "total_est_revenue": 4521.98
+    },
+    {
+      "app_name": "Calm Burn X",
+      "category": "HEALTH_AND_FITNESS",
+      "size_mb": 68.0,
+      "rating": 4.4,
+      "installs": 50000,
+      "total_est_revenue": 17221.8
+    },
+    {
+      "app_name": "Hero Master #5276",
+      "category": "GAME",
+      "size_mb": 292.7,
+      "rating": 3.8,
+      "installs": 10000,
+      "total_est_revenue": 3317.45
+    },
+    {
+      "app_name": "Kingdom Battle #4983",
+      "category": "GAME",
+      "size_mb": 198.9,
+      "rating": 3.7,
+      "installs": 5000,
+      "total_est_revenue": 1659.34
+    },
+    {
+      "app_name": "Epic Arena AI",
+      "category": "GAME",
+      "size_mb": 159.2,
+      "rating": 3.8,
+      "installs": 10000,
+      "total_est_revenue": 13930.0
+    },
+    {
+      "app_name": "Kingdom Run HD",
+      "category": "GAME",
+      "size_mb": 98.6,
+      "rating": 4.4,
+      "installs": 500000,
+      "total_est_revenue": 164435.64
+    },
+    {
+      "app_name": "Kingdom Master Go",
+      "category": "GAME",
+      "size_mb": 172.8,
+      "rating": 4.3,
+      "installs": 1000,
+      "total_est_revenue": 363.27
+    },
+    {
+      "app_name": "Show Flix X",
+      "category": "ENTERTAINMENT",
+      "size_mb": 119.0,
+      "rating": 4.4,
+      "installs": 10000,
+      "total_est_revenue": 287.64
+    },
+    {
+      "app_name": "Omni Pro",
+      "category": "BUSINESS",
+      "size_mb": 38.6,
+      "rating": 4.2,
+      "installs": 100000,
+      "total_est_revenue": 29500.39
+    },
+    {
+      "app_name": "Clean Plus Go",
+      "category": "PRODUCTIVITY",
+      "size_mb": 61.8,
+      "rating": 4.4,
+      "installs": 5000,
+      "total_est_revenue": 75.72
+    },
+    {
+      "app_name": "Quick Suite Go",
+      "category": "PRODUCTIVITY",
+      "size_mb": 57.1,
+      "rating": 4.1,
+      "installs": 500000,
+      "total_est_revenue": 9538.89
+    },
+    {
+      "app_name": "Glam Filter X",
+      "category": "PHOTOGRAPHY",
+      "size_mb": 51.0,
+      "rating": 4.0,
+      "installs": 5000,
+      "total_est_revenue": 1374.67
+    },
+    {
+      "app_name": "Glow Guide HD",
+      "category": "LIFESTYLE",
+      "size_mb": 54.8,
+      "rating": 4.7,
+      "installs": 1000,
+      "total_est_revenue": 604.17
+    },
+    {
+      "app_name": "Dragon Legends HD",
+      "category": "GAME",
+      "size_mb": 128.6,
+      "rating": 4.4,
+      "installs": 1000000,
+      "total_est_revenue": 1393000.0
+    },
+    {
+      "app_name": "Clash of Craft",
+      "category": "GAME",
+      "size_mb": 289.9,
+      "rating": 4.1,
+      "installs": 1000,
+      "total_est_revenue": 237.47
+    },
+    {
+      "app_name": "Glam Magic Lite",
+      "category": "PHOTOGRAPHY",
+      "size_mb": 64.8,
+      "rating": 4.9,
+      "installs": 10000,
+      "total_est_revenue": 1723.56
+    },
+    {
+      "app_name": "Hero Run 3D",
+      "category": "GAME",
+      "size_mb": 61.9,
+      "rating": 4.3,
+      "installs": 500000,
+      "total_est_revenue": 241711.68
+    },
+    {
+      "app_name": "Easy Utility 2026",
+      "category": "TOOLS",
+      "size_mb": 5.5,
+      "rating": 3.9,
+      "installs": 10000,
+      "total_est_revenue": 356.15
+    },
+    {
+      "app_name": "Fast Speed 3D",
+      "category": "TOOLS",
+      "size_mb": 33.5,
+      "rating": 3.8,
+      "installs": 1000,
+      "total_est_revenue": 27.3
+    },
+    {
+      "app_name": "Color Shot Go",
+      "category": "PHOTOGRAPHY",
+      "size_mb": 100.7,
+      "rating": 3.8,
+      "installs": 50000,
+      "total_est_revenue": 39679.27
+    },
+    {
+      "app_name": "Tune Wave AI",
+      "category": "ENTERTAINMENT",
+      "size_mb": 35.6,
+      "rating": 4.3,
+      "installs": 100000,
+      "total_est_revenue": 40588.62
+    },
+    {
+      "app_name": "Legend of Run X",
+      "category": "GAME",
+      "size_mb": 167.7,
+      "rating": 4.1,
+      "installs": 1000000,
+      "total_est_revenue": 738117.54
+    },
+    {
+      "app_name": "Power Helper HD",
+      "category": "TOOLS",
+      "size_mb": 32.6,
+      "rating": 4.1,
+      "installs": 5000,
+      "total_est_revenue": 2926.39
+    },
+    {
+      "app_name": "Color Editor Lite",
+      "category": "PHOTOGRAPHY",
+      "size_mb": 72.5,
+      "rating": 4.4,
+      "installs": 1000000,
+      "total_est_revenue": 331378.59
+    },
+    {
+      "app_name": "Organize Plus 3D",
+      "category": "PRODUCTIVITY",
+      "size_mb": 61.4,
+      "rating": 4.5,
+      "installs": 1000,
+      "total_est_revenue": 425.89
+    },
+    {
+      "app_name": "Aura Home X",
+      "category": "LIFESTYLE",
+      "size_mb": 69.7,
+      "rating": 3.4,
+      "installs": 100000,
+      "total_est_revenue": 31694.96
+    },
+    {
+      "app_name": "Tutor Junior",
+      "category": "EDUCATION",
+      "size_mb": 42.6,
+      "rating": 4.2,
+      "installs": 5000000,
+      "total_est_revenue": 147754.43
+    },
+    {
+      "app_name": "Cast Wave AI",
+      "category": "ENTERTAINMENT",
+      "size_mb": 104.4,
+      "rating": 5.0,
+      "installs": 5000,
+      "total_est_revenue": 1372.55
+    },
+    {
+      "app_name": "Master Helper AI",
+      "category": "TOOLS",
+      "size_mb": 22.9,
+      "rating": 3.6,
+      "installs": 100000,
+      "total_est_revenue": 209300.0
+    },
+    {
+      "app_name": "Filter Studio 2026",
+      "category": "PHOTOGRAPHY",
+      "size_mb": 29.5,
+      "rating": 4.8,
+      "installs": 50000000,
+      "total_est_revenue": 31553091.66
+    },
+    {
+      "app_name": "Super Cleaner",
+      "category": "TOOLS",
+      "size_mb": 34.2,
+      "rating": 3.8,
+      "installs": 100000,
+      "total_est_revenue": 2258.98
+    },
+    {
+      "app_name": "Chill Room X",
+      "category": "ENTERTAINMENT",
+      "size_mb": 67.6,
+      "rating": 4.0,
+      "installs": 500000,
+      "total_est_revenue": 112125.6
+    },
+    {
+      "app_name": "Art Story",
+      "category": "PHOTOGRAPHY",
+      "size_mb": 54.6,
+      "rating": 4.4,
+      "installs": 5000,
+      "total_est_revenue": 3286.01
+    },
+    {
+      "app_name": "Tribe Spot HD",
+      "category": "SOCIAL",
+      "size_mb": 68.2,
+      "rating": 3.8,
+      "installs": 100000,
+      "total_est_revenue": 94106.88
+    },
+    {
+      "app_name": "Cozy Guide Max",
+      "category": "LIFESTYLE",
+      "size_mb": 52.1,
+      "rating": 3.9,
+      "installs": 1000,
+      "total_est_revenue": 28.71
+    },
+    {
+      "app_name": "Quiz Studio Max",
+      "category": "EDUCATION",
+      "size_mb": 87.7,
+      "rating": 4.3,
+      "installs": 500000,
+      "total_est_revenue": 1046500.0
+    },
+    {
+      "app_name": "Cardio Habit HD",
+      "category": "HEALTH_AND_FITNESS",
+      "size_mb": 49.1,
+      "rating": 4.3,
+      "installs": 500000,
+      "total_est_revenue": 232343.96
+    },
+    {
+      "app_name": "Clash of Master #5742",
+      "category": "GAME",
+      "size_mb": 96.9,
+      "rating": 4.7,
+      "installs": 100000,
+      "total_est_revenue": 34485.13
+    },
+    {
+      "app_name": "Coin Tracker 3D",
+      "category": "FINANCE",
+      "size_mb": 34.3,
+      "rating": 4.4,
+      "installs": 1000,
+      "total_est_revenue": 299.12
+    },
+    {
+      "app_name": "Wink Social Max",
+      "category": "SOCIAL",
+      "size_mb": 91.8,
+      "rating": 4.2,
+      "installs": 100000,
+      "total_est_revenue": 2119.5
+    },
+    {
+      "app_name": "Chill Station 3D",
+      "category": "ENTERTAINMENT",
+      "size_mb": 52.9,
+      "rating": 4.4,
+      "installs": 10000,
+      "total_est_revenue": 13930.0
+    },
+    {
+      "app_name": "Shadow Empire AI",
+      "category": "GAME",
+      "size_mb": 267.3,
+      "rating": 3.9,
+      "installs": 1000,
+      "total_est_revenue": 486.14
+    },
+    {
+      "app_name": "Smart Optimizer 2026",
+      "category": "TOOLS",
+      "size_mb": 7.1,
+      "rating": 3.4,
+      "installs": 100000,
+      "total_est_revenue": 23553.23
+    },
+    {
+      "app_name": "Flicks Station Lite",
+      "category": "ENTERTAINMENT",
+      "size_mb": 36.2,
+      "rating": 4.2,
+      "installs": 5000,
+      "total_est_revenue": 1947.16
+    },
+    {
+      "app_name": "Cardio Routine 3D",
+      "category": "HEALTH_AND_FITNESS",
+      "size_mb": 25.5,
+      "rating": 4.1,
+      "installs": 100000,
+      "total_est_revenue": 39551.16
+    },
+    {
+      "app_name": "Master Scan",
+      "category": "TOOLS",
+      "size_mb": 35.9,
+      "rating": 5.0,
+      "installs": 5000,
+      "total_est_revenue": 1318.76
+    },
+    {
+      "app_name": "Focus Assistant Max",
+      "category": "PRODUCTIVITY",
+      "size_mb": 25.2,
+      "rating": 4.6,
+      "installs": 100000,
+      "total_est_revenue": 45726.35
+    },
+    {
+      "app_name": "Budget Pro 2026",
+      "category": "FINANCE",
+      "size_mb": 44.8,
+      "rating": 4.1,
+      "installs": 5000,
+      "total_est_revenue": 249.5
+    },
+    {
+      "app_name": "Focus Hub Max",
+      "category": "PRODUCTIVITY",
+      "size_mb": 73.1,
+      "rating": 4.5,
+      "installs": 10000,
+      "total_est_revenue": 165.12
+    },
+    {
+      "app_name": "Enterprise One X",
+      "category": "BUSINESS",
+      "size_mb": 18.5,
+      "rating": 4.3,
+      "installs": 5000,
+      "total_est_revenue": 3938.09
+    },
+    {
+      "app_name": "Turbo Utility Max",
+      "category": "TOOLS",
+      "size_mb": 39.7,
+      "rating": 3.7,
+      "installs": 10000,
+      "total_est_revenue": 1660.79
+    },
+    {
+      "app_name": "Stream Tube Max",
+      "category": "ENTERTAINMENT",
+      "size_mb": 101.4,
+      "rating": 4.7,
+      "installs": 50000000,
+      "total_est_revenue": 6954717.84
+    },
+    {
+      "app_name": "Master Skills",
+      "category": "EDUCATION",
+      "size_mb": 49.5,
+      "rating": 4.4,
+      "installs": 100000,
+      "total_est_revenue": 3832.14
+    },
+    {
+      "app_name": "Capital Pro",
+      "category": "FINANCE",
+      "size_mb": 77.2,
+      "rating": 3.8,
+      "installs": 10000,
+      "total_est_revenue": 717.13
+    },
+    {
+      "app_name": "Daily Log 3D",
+      "category": "HEALTH_AND_FITNESS",
+      "size_mb": 61.2,
+      "rating": 4.2,
+      "installs": 1000000,
+      "total_est_revenue": 337775.91
+    },
+    {
+      "app_name": "Kingdom Run #4802",
+      "category": "GAME",
+      "size_mb": 307.7,
+      "rating": 4.5,
+      "installs": 500000,
+      "total_est_revenue": 148678.77
+    },
+    {
+      "app_name": "Cardio Coach X",
+      "category": "HEALTH_AND_FITNESS",
+      "size_mb": 71.3,
+      "rating": 4.6,
+      "installs": 10000,
+      "total_est_revenue": 4853.05
+    },
+    {
+      "app_name": "Legend of Chronicles #5041",
+      "category": "GAME",
+      "size_mb": 99.1,
+      "rating": 4.4,
+      "installs": 50000,
+      "total_est_revenue": 30604.99
+    },
+    {
+      "app_name": "Quick WorkSpace Max",
+      "category": "PRODUCTIVITY",
+      "size_mb": 73.1,
+      "rating": 4.1,
+      "installs": 10000,
+      "total_est_revenue": 2398.88
+    },
+    {
+      "app_name": "Kids Hub Lite",
+      "category": "EDUCATION",
+      "size_mb": 111.1,
+      "rating": 4.0,
+      "installs": 100000,
+      "total_est_revenue": 10906.14
+    },
+    {
+      "app_name": "Spend Tracker Go",
+      "category": "FINANCE",
+      "size_mb": 44.1,
+      "rating": 4.6,
+      "installs": 500000,
+      "total_est_revenue": 408086.99
+    },
+    {
+      "app_name": "Legend of Run AI",
+      "category": "GAME",
+      "size_mb": 83.1,
+      "rating": 4.0,
+      "installs": 1000,
+      "total_est_revenue": 609.11
+    },
+    {
+      "app_name": "Tribe Match Lite",
+      "category": "SOCIAL",
+      "size_mb": 91.7,
+      "rating": 4.1,
+      "installs": 100000,
+      "total_est_revenue": 8515.98
+    },
+    {
+      "app_name": "Task Suite 2026",
+      "category": "PRODUCTIVITY",
+      "size_mb": 43.1,
+      "rating": 3.8,
+      "installs": 1000,
+      "total_est_revenue": 441.12
+    },
+    {
+      "app_name": "Ultra Cleaner HD",
+      "category": "TOOLS",
+      "size_mb": 43.3,
+      "rating": 3.8,
+      "installs": 5000,
+      "total_est_revenue": 102.75
+    },
+    {
+      "app_name": "Kingdom Master #5979",
+      "category": "GAME",
+      "size_mb": 66.9,
+      "rating": 4.1,
+      "installs": 100000,
+      "total_est_revenue": 29312.18
+    },
+    {
+      "app_name": "Speak Junior Lite",
+      "category": "EDUCATION",
+      "size_mb": 76.5,
+      "rating": 4.4,
+      "installs": 100000,
+      "total_est_revenue": 71919.22
+    },
+    {
+      "app_name": "Zen Mind Go",
+      "category": "HEALTH_AND_FITNESS",
+      "size_mb": 54.4,
+      "rating": 3.9,
+      "installs": 10000,
+      "total_est_revenue": 366.29
+    },
+    {
+      "app_name": "Lumina Studio HD",
+      "category": "PHOTOGRAPHY",
+      "size_mb": 108.6,
+      "rating": 4.8,
+      "installs": 1000,
+      "total_est_revenue": 37.58
+    },
+    {
+      "app_name": "Link Vibe Max",
+      "category": "SOCIAL",
+      "size_mb": 34.6,
+      "rating": 3.2,
+      "installs": 10000,
+      "total_est_revenue": 6751.04
+    },
+    {
+      "app_name": "Idle Warriors #5318",
+      "category": "GAME",
+      "size_mb": 192.9,
+      "rating": 3.9,
+      "installs": 50000,
+      "total_est_revenue": 174650.0
+    },
+    {
+      "app_name": "Clash of Chronicles",
+      "category": "GAME",
+      "size_mb": 254.3,
+      "rating": 4.1,
+      "installs": 50000,
+      "total_est_revenue": 18361.5
+    },
+    {
+      "app_name": "Cardio Habit 2026",
+      "category": "HEALTH_AND_FITNESS",
+      "size_mb": 27.0,
+      "rating": 4.4,
+      "installs": 500000,
+      "total_est_revenue": 375437.94
+    },
+    {
+      "app_name": "Team Portal",
+      "category": "BUSINESS",
+      "size_mb": 58.3,
+      "rating": 4.0,
+      "installs": 1000,
+      "total_est_revenue": 477.76
+    },
+    {
+      "app_name": "Spirit Path 3D",
+      "category": "LIFESTYLE",
+      "size_mb": 32.8,
+      "rating": 3.9,
+      "installs": 5000,
+      "total_est_revenue": 3450.1
+    },
+    {
+      "app_name": "Hangout Live X",
+      "category": "SOCIAL",
+      "size_mb": 79.8,
+      "rating": 4.2,
+      "installs": 1000,
+      "total_est_revenue": 1138.64
+    },
+    {
+      "app_name": "Lens Cam Lite",
+      "category": "PHOTOGRAPHY",
+      "size_mb": 67.2,
+      "rating": 4.5,
+      "installs": 5000,
+      "total_est_revenue": 163.98
+    },
+    {
+      "app_name": "Academy Prep 2026",
+      "category": "EDUCATION",
+      "size_mb": 137.5,
+      "rating": 4.3,
+      "installs": 10000,
+      "total_est_revenue": 58142.76
+    },
+    {
+      "app_name": "Dragon Legends 3D",
+      "category": "GAME",
+      "size_mb": 28.8,
+      "rating": 4.2,
+      "installs": 100000,
+      "total_est_revenue": 4766.94
+    },
+    {
+      "app_name": "Binge Play 2026",
+      "category": "ENTERTAINMENT",
+      "size_mb": 58.4,
+      "rating": 3.6,
+      "installs": 500000,
+      "total_est_revenue": 148210.5
+    },
+    {
+      "app_name": "Pixel Warriors #5274",
+      "category": "GAME",
+      "size_mb": 307.4,
+      "rating": 4.2,
+      "installs": 500000,
+      "total_est_revenue": 391622.19
+    },
+    {
+      "app_name": "Budget Direct 2026",
+      "category": "FINANCE",
+      "size_mb": 66.2,
+      "rating": 4.6,
+      "installs": 10000,
+      "total_est_revenue": 1034.33
+    },
+    {
+      "app_name": "Tune Flix 3D",
+      "category": "ENTERTAINMENT",
+      "size_mb": 36.7,
+      "rating": 4.5,
+      "installs": 10000,
+      "total_est_revenue": 2429.97
+    },
+    {
+      "app_name": "Hero Battle #5854",
+      "category": "GAME",
+      "size_mb": 234.5,
+      "rating": 4.7,
+      "installs": 10000,
+      "total_est_revenue": 3350.58
+    },
+    {
+      "app_name": "Legend of Chronicles #4385",
+      "category": "GAME",
+      "size_mb": 272.9,
+      "rating": 4.3,
+      "installs": 10000,
+      "total_est_revenue": 4143.43
+    },
+    {
+      "app_name": "Pure Mind Max",
+      "category": "HEALTH_AND_FITNESS",
+      "size_mb": 54.3,
+      "rating": 4.0,
+      "installs": 5000,
+      "total_est_revenue": 202.14
+    },
+    {
+      "app_name": "Pop Box Go",
+      "category": "ENTERTAINMENT",
+      "size_mb": 25.9,
+      "rating": 3.8,
+      "installs": 1000,
+      "total_est_revenue": 426.74
+    },
+    {
+      "app_name": "Pop Tube",
+      "category": "ENTERTAINMENT",
+      "size_mb": 65.5,
+      "rating": 3.7,
+      "installs": 5000000,
+      "total_est_revenue": 1929134.35
+    },
+    {
+      "app_name": "Lens Editor Lite",
+      "category": "PHOTOGRAPHY",
+      "size_mb": 67.2,
+      "rating": 4.2,
+      "installs": 5000,
+      "total_est_revenue": 1448.65
+    },
+    {
+      "app_name": "Pocket Pro HD",
+      "category": "FINANCE",
+      "size_mb": 16.7,
+      "rating": 4.5,
+      "installs": 5000,
+      "total_est_revenue": 5373.98
+    },
+    {
+      "app_name": "Epic Run Go",
+      "category": "GAME",
+      "size_mb": 295.8,
+      "rating": 4.3,
+      "installs": 50000,
+      "total_est_revenue": 40090.2
+    },
+    {
+      "app_name": "Epic Master 2026",
+      "category": "GAME",
+      "size_mb": 94.2,
+      "rating": 4.0,
+      "installs": 500000,
+      "total_est_revenue": 254944.79
+    },
+    {
+      "app_name": "Pro WorkSpace Go",
+      "category": "PRODUCTIVITY",
+      "size_mb": 28.1,
+      "rating": 4.1,
+      "installs": 100000,
+      "total_est_revenue": 69626.69
+    },
+    {
+      "app_name": "Lens Filter",
+      "category": "PHOTOGRAPHY",
+      "size_mb": 110.0,
+      "rating": 3.8,
+      "installs": 50000,
+      "total_est_revenue": 1865.89
+    },
+    {
+      "app_name": "Brain Hub AI",
+      "category": "EDUCATION",
+      "size_mb": 63.3,
+      "rating": 4.4,
+      "installs": 10000,
+      "total_est_revenue": 3340.48
+    },
+    {
+      "app_name": "Capital Control 2026",
+      "category": "FINANCE",
+      "size_mb": 44.4,
+      "rating": 4.2,
+      "installs": 50000,
+      "total_est_revenue": 22938.19
+    },
+    {
+      "app_name": "Color Lab HD",
+      "category": "PHOTOGRAPHY",
+      "size_mb": 24.4,
+      "rating": 4.5,
+      "installs": 10000,
+      "total_est_revenue": 29721.63
+    },
+    {
+      "app_name": "Pulse Mind AI",
+      "category": "HEALTH_AND_FITNESS",
+      "size_mb": 59.3,
+      "rating": 4.6,
+      "installs": 50000,
+      "total_est_revenue": 14140.38
+    },
+    {
+      "app_name": "Master Scan Lite",
+      "category": "TOOLS",
+      "size_mb": 35.9,
+      "rating": 4.2,
+      "installs": 10000,
+      "total_est_revenue": 236.35
+    },
+    {
+      "app_name": "Learn Junior 3D",
+      "category": "EDUCATION",
+      "size_mb": 129.1,
+      "rating": 4.0,
+      "installs": 500000,
+      "total_est_revenue": 161391.78
+    },
+    {
+      "app_name": "Shadow Battle #5314",
+      "category": "GAME",
+      "size_mb": 70.7,
+      "rating": 4.0,
+      "installs": 10000,
+      "total_est_revenue": 2402.87
+    },
+    {
+      "app_name": "Dragon Chronicles Max",
+      "category": "GAME",
+      "size_mb": 278.2,
+      "rating": 4.5,
+      "installs": 100000,
+      "total_est_revenue": 4521.55
+    },
+    {
+      "app_name": "Coin Direct 2026",
+      "category": "FINANCE",
+      "size_mb": 18.0,
+      "rating": 4.4,
+      "installs": 1000,
+      "total_est_revenue": 650.86
+    },
+    {
+      "app_name": "Quiz Hub X",
+      "category": "EDUCATION",
+      "size_mb": 40.9,
+      "rating": 4.4,
+      "installs": 50000,
+      "total_est_revenue": 20000.52
+    },
+    {
+      "app_name": "Lens Editor Max",
+      "category": "PHOTOGRAPHY",
+      "size_mb": 38.0,
+      "rating": 4.3,
+      "installs": 50000,
+      "total_est_revenue": 1218.28
+    },
+    {
+      "app_name": "Snap Editor Go",
+      "category": "PHOTOGRAPHY",
+      "size_mb": 97.4,
+      "rating": 4.0,
+      "installs": 5000,
+      "total_est_revenue": 1700.84
+    },
+    {
+      "app_name": "Chat Vibe Go",
+      "category": "SOCIAL",
+      "size_mb": 105.8,
+      "rating": 3.9,
+      "installs": 100000,
+      "total_est_revenue": 43520.8
+    },
+    {
+      "app_name": "Active Health X",
+      "category": "HEALTH_AND_FITNESS",
+      "size_mb": 84.6,
+      "rating": 4.3,
+      "installs": 1000,
+      "total_est_revenue": 49.83
+    },
+    {
+      "app_name": "Wink Talk HD",
+      "category": "SOCIAL",
+      "size_mb": 38.3,
+      "rating": 4.4,
+      "installs": 1000,
+      "total_est_revenue": 516.6
+    },
+    {
+      "app_name": "Hangout App 2026",
+      "category": "SOCIAL",
+      "size_mb": 62.3,
+      "rating": 3.6,
+      "installs": 50000,
+      "total_est_revenue": 13226.82
+    },
+    {
+      "app_name": "Spend Flow Lite",
+      "category": "FINANCE",
+      "size_mb": 50.3,
+      "rating": 4.1,
+      "installs": 1000,
+      "total_est_revenue": 46.09
+    },
+    {
+      "app_name": "Focus WorkSpace Lite",
+      "category": "PRODUCTIVITY",
+      "size_mb": 69.5,
+      "rating": 3.8,
+      "installs": 1000000,
+      "total_est_revenue": 792365.57
+    },
+    {
+      "app_name": "Lens Cam X",
+      "category": "PHOTOGRAPHY",
+      "size_mb": 49.9,
+      "rating": 3.9,
+      "installs": 10000000,
+      "total_est_revenue": 2222435.79
+    },
+    {
+      "app_name": "Style Journal",
+      "category": "LIFESTYLE",
+      "size_mb": 16.9,
+      "rating": 4.1,
+      "installs": 1000,
+      "total_est_revenue": 645.87
+    },
+    {
+      "app_name": "Organize Hub 3D",
+      "category": "PRODUCTIVITY",
+      "size_mb": 56.2,
+      "rating": 3.9,
+      "installs": 1000000,
+      "total_est_revenue": 239093.72
+    },
+    {
+      "app_name": "Pocket Tracker HD",
+      "category": "FINANCE",
+      "size_mb": 20.3,
+      "rating": 4.1,
+      "installs": 500000,
+      "total_est_revenue": 418509.35
+    },
+    {
+      "app_name": "Coin Flow HD",
+      "category": "FINANCE",
+      "size_mb": 30.0,
+      "rating": 4.1,
+      "installs": 50000,
+      "total_est_revenue": 14281.09
+    },
+    {
+      "app_name": "Hero Quest #5365",
+      "category": "GAME",
+      "size_mb": 174.4,
+      "rating": 3.8,
+      "installs": 1000,
+      "total_est_revenue": 293.51
+    },
+    {
+      "app_name": "Chat Network AI",
+      "category": "SOCIAL",
+      "size_mb": 60.1,
+      "rating": 3.7,
+      "installs": 10000,
+      "total_est_revenue": 562.51
+    },
+    {
+      "app_name": "Lens Shot Go",
+      "category": "PHOTOGRAPHY",
+      "size_mb": 43.2,
+      "rating": 3.7,
+      "installs": 500000,
+      "total_est_revenue": 259541.59
+    },
+    {
+      "app_name": "Idle Battle X",
+      "category": "GAME",
+      "size_mb": 244.2,
+      "rating": 4.4,
+      "installs": 5000000,
+      "total_est_revenue": 3358947.82
+    },
+    {
+      "app_name": "Binge TV Lite",
+      "category": "ENTERTAINMENT",
+      "size_mb": 69.8,
+      "rating": 4.8,
+      "installs": 100000,
+      "total_est_revenue": 8901.31
+    },
+    {
+      "app_name": "Glow Design Go",
+      "category": "LIFESTYLE",
+      "size_mb": 57.3,
+      "rating": 4.4,
+      "installs": 1000,
+      "total_est_revenue": 45.69
+    },
+    {
+      "app_name": "Speak Junior",
+      "category": "EDUCATION",
+      "size_mb": 29.2,
+      "rating": 4.2,
+      "installs": 10000,
+      "total_est_revenue": 8368.13
+    },
+    {
+      "app_name": "Flicks Tube X",
+      "category": "ENTERTAINMENT",
+      "size_mb": 33.1,
+      "rating": 3.9,
+      "installs": 500000,
+      "total_est_revenue": 346500.0
+    },
+    {
+      "app_name": "Coin Flow X",
+      "category": "FINANCE",
+      "size_mb": 76.6,
+      "rating": 4.1,
+      "installs": 1000000,
+      "total_est_revenue": 83807.9
+    },
+    {
+      "app_name": "Ultra Helper AI",
+      "category": "TOOLS",
+      "size_mb": 19.2,
+      "rating": 3.5,
+      "installs": 10000,
+      "total_est_revenue": 179.6
+    },
+    {
+      "app_name": "Quick Tracker Max",
+      "category": "PRODUCTIVITY",
+      "size_mb": 71.9,
+      "rating": 3.6,
+      "installs": 50000,
+      "total_est_revenue": 20499.53
+    },
+    {
+      "app_name": "Cast Now AI",
+      "category": "ENTERTAINMENT",
+      "size_mb": 66.9,
+      "rating": 4.4,
+      "installs": 5000,
+      "total_est_revenue": 1841.74
+    },
+    {
+      "app_name": "Focus Plus 2026",
+      "category": "PRODUCTIVITY",
+      "size_mb": 18.9,
+      "rating": 3.8,
+      "installs": 1000000,
+      "total_est_revenue": 2452720.4
+    },
+    {
+      "app_name": "Fit Health AI",
+      "category": "HEALTH_AND_FITNESS",
+      "size_mb": 32.0,
+      "rating": 4.6,
+      "installs": 500000,
+      "total_est_revenue": 1986660.36
+    },
+    {
+      "app_name": "Task Desk AI",
+      "category": "PRODUCTIVITY",
+      "size_mb": 55.4,
+      "rating": 3.8,
+      "installs": 1000,
+      "total_est_revenue": 383.89
+    },
+    {
+      "app_name": "Flicks Tube AI",
+      "category": "ENTERTAINMENT",
+      "size_mb": 116.9,
+      "rating": 4.1,
+      "installs": 10000000,
+      "total_est_revenue": 480959.02
+    },
+    {
+      "app_name": "Ultra Helper Go",
+      "category": "TOOLS",
+      "size_mb": 29.8,
+      "rating": 3.9,
+      "installs": 500000,
+      "total_est_revenue": 14745.52
+    },
+    {
+      "app_name": "Brain Easy 2026",
+      "category": "EDUCATION",
+      "size_mb": 82.4,
+      "rating": 4.1,
+      "installs": 100000,
+      "total_est_revenue": 139300.0
+    },
+    {
+      "app_name": "Pixel Shot Max",
+      "category": "PHOTOGRAPHY",
+      "size_mb": 36.3,
+      "rating": 5.0,
+      "installs": 1000,
+      "total_est_revenue": 758.64
+    },
+    {
+      "app_name": "Idle Run 2026",
+      "category": "GAME",
+      "size_mb": 225.7,
+      "rating": 4.3,
+      "installs": 1000000,
+      "total_est_revenue": 66460.0
+    },
+    {
+      "app_name": "Active Health HD",
+      "category": "HEALTH_AND_FITNESS",
+      "size_mb": 42.8,
+      "rating": 4.5,
+      "installs": 10000,
+      "total_est_revenue": 8236.06
+    },
+    {
+      "app_name": "Quiz Studio HD",
+      "category": "EDUCATION",
+      "size_mb": 117.5,
+      "rating": 4.2,
+      "installs": 50000,
+      "total_est_revenue": 69650.0
+    },
+    {
+      "app_name": "Active Zone",
+      "category": "HEALTH_AND_FITNESS",
+      "size_mb": 29.2,
+      "rating": 4.5,
+      "installs": 100000,
+      "total_est_revenue": 38535.75
+    },
+    {
+      "app_name": "Daily Log Lite",
+      "category": "HEALTH_AND_FITNESS",
+      "size_mb": 35.9,
+      "rating": 4.2,
+      "installs": 5000,
+      "total_est_revenue": 186.32
+    },
+    {
+      "app_name": "Link Social Lite",
+      "category": "SOCIAL",
+      "size_mb": 84.7,
+      "rating": 3.9,
+      "installs": 100000,
+      "total_est_revenue": 56597.94
+    },
+    {
+      "app_name": "Quick Planner",
+      "category": "PRODUCTIVITY",
+      "size_mb": 18.2,
+      "rating": 4.3,
+      "installs": 5000,
+      "total_est_revenue": 1587.95
+    },
+    {
+      "app_name": "Shadow Empire Lite",
+      "category": "GAME",
+      "size_mb": 125.0,
+      "rating": 3.9,
+      "installs": 5000,
+      "total_est_revenue": 3711.51
+    },
+    {
+      "app_name": "Cozy Inspo Lite",
+      "category": "LIFESTYLE",
+      "size_mb": 28.2,
+      "rating": 4.1,
+      "installs": 5000000,
+      "total_est_revenue": 2016401.62
+    },
+    {
+      "app_name": "Link Spot 2026",
+      "category": "SOCIAL",
+      "size_mb": 95.8,
+      "rating": 3.8,
+      "installs": 10000,
+      "total_est_revenue": 4966.53
+    },
+    {
+      "app_name": "Coin Wallet",
+      "category": "FINANCE",
+      "size_mb": 57.6,
+      "rating": 4.2,
+      "installs": 50000,
+      "total_est_revenue": 3327.43
+    },
+    {
+      "app_name": "Glow Home 3D",
+      "category": "LIFESTYLE",
+      "size_mb": 30.6,
+      "rating": 4.5,
+      "installs": 5000,
+      "total_est_revenue": 2105.78
+    },
+    {
+      "app_name": "Pro WorkSpace",
+      "category": "PRODUCTIVITY",
+      "size_mb": 60.2,
+      "rating": 4.3,
+      "installs": 5000,
+      "total_est_revenue": 111.76
+    },
+    {
+      "app_name": "Dragon Warriors Max",
+      "category": "GAME",
+      "size_mb": 44.5,
+      "rating": 4.7,
+      "installs": 10000,
+      "total_est_revenue": 2510.8
+    },
+    {
+      "app_name": "Scale Manager 2026",
+      "category": "BUSINESS",
+      "size_mb": 80.6,
+      "rating": 4.4,
+      "installs": 5000000,
+      "total_est_revenue": 3729688.4
+    },
+    {
+      "app_name": "Legend of Legends HD",
+      "category": "GAME",
+      "size_mb": 137.6,
+      "rating": 4.2,
+      "installs": 1000000,
+      "total_est_revenue": 350161.78
+    },
+    {
+      "app_name": "Binge Play 3D",
+      "category": "ENTERTAINMENT",
+      "size_mb": 32.1,
+      "rating": 4.3,
+      "installs": 50000,
+      "total_est_revenue": 3711.82
+    },
+    {
+      "app_name": "Chic Daily HD",
+      "category": "LIFESTYLE",
+      "size_mb": 22.6,
+      "rating": 4.5,
+      "installs": 1000,
+      "total_est_revenue": 216.38
+    },
+    {
+      "app_name": "Dragon Run 2026",
+      "category": "GAME",
+      "size_mb": 53.0,
+      "rating": 4.4,
+      "installs": 5000,
+      "total_est_revenue": 2919.22
+    },
+    {
+      "app_name": "Bond Social X",
+      "category": "SOCIAL",
+      "size_mb": 120.8,
+      "rating": 4.6,
+      "installs": 1000000,
+      "total_est_revenue": 368999.08
+    },
+    {
+      "app_name": "Cast Now HD",
+      "category": "ENTERTAINMENT",
+      "size_mb": 59.2,
+      "rating": 4.0,
+      "installs": 1000000,
+      "total_est_revenue": 391510.07
+    },
+    {
+      "app_name": "Epic Warriors #4451",
+      "category": "GAME",
+      "size_mb": 47.3,
+      "rating": 4.4,
+      "installs": 1000000,
+      "total_est_revenue": 61214.89
+    },
+    {
+      "app_name": "Power Speed Max",
+      "category": "TOOLS",
+      "size_mb": 42.9,
+      "rating": 4.1,
+      "installs": 10000,
+      "total_est_revenue": 301.21
+    },
+    {
+      "app_name": "Brain Explorer AI",
+      "category": "EDUCATION",
+      "size_mb": 26.7,
+      "rating": 4.3,
+      "installs": 1000000,
+      "total_est_revenue": 9816.45
+    },
+    {
+      "app_name": "Epic Chronicles Go",
+      "category": "GAME",
+      "size_mb": 56.5,
+      "rating": 4.2,
+      "installs": 50000,
+      "total_est_revenue": 26861.06
+    },
+    {
+      "app_name": "Pop Tube Max",
+      "category": "ENTERTAINMENT",
+      "size_mb": 79.5,
+      "rating": 3.0,
+      "installs": 5000000,
+      "total_est_revenue": 944313.5
+    },
+    {
+      "app_name": "Invoice Direct HD",
+      "category": "BUSINESS",
+      "size_mb": 44.8,
+      "rating": 4.3,
+      "installs": 1000000,
+      "total_est_revenue": 106368.22
+    },
+    {
+      "app_name": "Easy Scan",
+      "category": "TOOLS",
+      "size_mb": 18.3,
+      "rating": 4.7,
+      "installs": 50000,
+      "total_est_revenue": 2092.6
+    },
+    {
+      "app_name": "Dragon Master Max",
+      "category": "GAME",
+      "size_mb": 212.9,
+      "rating": 3.9,
+      "installs": 1000,
+      "total_est_revenue": 47.97
+    },
+    {
+      "app_name": "Sale Manager Max",
+      "category": "BUSINESS",
+      "size_mb": 32.3,
+      "rating": 4.3,
+      "installs": 1000000,
+      "total_est_revenue": 651443.72
+    },
+    {
+      "app_name": "Calm Coach Lite",
+      "category": "HEALTH_AND_FITNESS",
+      "size_mb": 41.1,
+      "rating": 4.0,
+      "installs": 10000,
+      "total_est_revenue": 5871.89
+    },
+    {
+      "app_name": "Clash of Master #5959",
+      "category": "GAME",
+      "size_mb": 259.5,
+      "rating": 3.7,
+      "installs": 1000,
+      "total_est_revenue": 397.86
+    },
+    {
+      "app_name": "Super Chronicles Go",
+      "category": "GAME",
+      "size_mb": 110.5,
+      "rating": 4.4,
+      "installs": 50000,
+      "total_est_revenue": 2809.07
+    },
+    {
+      "app_name": "Dragon Craft #4587",
+      "category": "GAME",
+      "size_mb": 211.8,
+      "rating": 4.2,
+      "installs": 1000,
+      "total_est_revenue": 2371.63
+    },
+    {
+      "app_name": "Ultra Shield Max",
+      "category": "TOOLS",
+      "size_mb": 42.0,
+      "rating": 3.9,
+      "installs": 1000,
+      "total_est_revenue": 38.64
+    },
+    {
+      "app_name": "Modern Corner AI",
+      "category": "LIFESTYLE",
+      "size_mb": 45.2,
+      "rating": 4.1,
+      "installs": 100000,
+      "total_est_revenue": 69300.0
+    },
+    {
+      "app_name": "Master Studio X",
+      "category": "EDUCATION",
+      "size_mb": 80.7,
+      "rating": 4.1,
+      "installs": 100000,
+      "total_est_revenue": 28141.73
+    },
+    {
+      "app_name": "Daily Burn Lite",
+      "category": "HEALTH_AND_FITNESS",
+      "size_mb": 45.1,
+      "rating": 4.1,
+      "installs": 5000000,
+      "total_est_revenue": 4078922.1
+    },
+    {
+      "app_name": "Pixel Legends AI",
+      "category": "GAME",
+      "size_mb": 263.6,
+      "rating": 4.4,
+      "installs": 1000000,
+      "total_est_revenue": 358608.04
+    },
+    {
+      "app_name": "Epic Empire #5460",
+      "category": "GAME",
+      "size_mb": 231.1,
+      "rating": 4.5,
+      "installs": 500000,
+      "total_est_revenue": 165075.47
+    },
+    {
+      "app_name": "Pure Habit",
+      "category": "HEALTH_AND_FITNESS",
+      "size_mb": 52.2,
+      "rating": 4.4,
+      "installs": 1000000,
+      "total_est_revenue": 458238.03
+    },
+    {
+      "app_name": "Idle Quest 3D",
+      "category": "GAME",
+      "size_mb": 112.6,
+      "rating": 3.9,
+      "installs": 5000000,
+      "total_est_revenue": 1838472.8
+    },
+    {
+      "app_name": "Binge Station X",
+      "category": "ENTERTAINMENT",
+      "size_mb": 113.5,
+      "rating": 3.8,
+      "installs": 100000,
+      "total_est_revenue": 29153.52
+    },
+    {
+      "app_name": "Epic Warriors #4900",
+      "category": "GAME",
+      "size_mb": 223.0,
+      "rating": 4.4,
+      "installs": 50000,
+      "total_est_revenue": 188802.72
+    },
+    {
+      "app_name": "Team Desk AI",
+      "category": "BUSINESS",
+      "size_mb": 40.7,
+      "rating": 4.2,
+      "installs": 50000,
+      "total_est_revenue": 1191.32
+    },
+    {
+      "app_name": "Sync Desk 3D",
+      "category": "PRODUCTIVITY",
+      "size_mb": 60.4,
+      "rating": 4.1,
+      "installs": 100000,
+      "total_est_revenue": 34496.29
+    },
+    {
+      "app_name": "Ledger Guard 3D",
+      "category": "FINANCE",
+      "size_mb": 36.8,
+      "rating": 4.1,
+      "installs": 1000,
+      "total_est_revenue": 881.71
+    },
+    {
+      "app_name": "Hero Master",
+      "category": "GAME",
+      "size_mb": 310.8,
+      "rating": 4.0,
+      "installs": 1000,
+      "total_est_revenue": 250.13
+    },
+    {
+      "app_name": "Quick Tracker AI",
+      "category": "PRODUCTIVITY",
+      "size_mb": 70.7,
+      "rating": 4.1,
+      "installs": 50000,
+      "total_est_revenue": 26525.72
+    },
+    {
+      "app_name": "Hero Battle Max",
+      "category": "GAME",
+      "size_mb": 208.2,
+      "rating": 4.6,
+      "installs": 1000,
+      "total_est_revenue": 55.73
+    },
+    {
+      "app_name": "Glam Filter Lite",
+      "category": "PHOTOGRAPHY",
+      "size_mb": 61.5,
+      "rating": 3.7,
+      "installs": 100000,
+      "total_est_revenue": 40887.74
+    },
+    {
+      "app_name": "Legend of Craft",
+      "category": "GAME",
+      "size_mb": 222.5,
+      "rating": 4.1,
+      "installs": 100000,
+      "total_est_revenue": 26470.02
+    },
+    {
+      "app_name": "Cast Zone Lite",
+      "category": "ENTERTAINMENT",
+      "size_mb": 25.2,
+      "rating": 4.0,
+      "installs": 100000,
+      "total_est_revenue": 5022.68
+    },
+    {
+      "app_name": "Show Now Lite",
+      "category": "ENTERTAINMENT",
+      "size_mb": 66.4,
+      "rating": 4.1,
+      "installs": 10000,
+      "total_est_revenue": 3520.22
+    },
+    {
+      "app_name": "Master Easy 2026",
+      "category": "EDUCATION",
+      "size_mb": 20.5,
+      "rating": 4.2,
+      "installs": 1000,
+      "total_est_revenue": 633.99
+    },
+    {
+      "app_name": "Smart Quest Go",
+      "category": "EDUCATION",
+      "size_mb": 97.6,
+      "rating": 4.2,
+      "installs": 500000,
+      "total_est_revenue": 1046500.0
+    },
+    {
+      "app_name": "Clash of Battle #6172",
+      "category": "GAME",
+      "size_mb": 307.7,
+      "rating": 3.9,
+      "installs": 100000,
+      "total_est_revenue": 29069.17
+    },
+    {
+      "app_name": "Ledger Vault AI",
+      "category": "FINANCE",
+      "size_mb": 77.9,
+      "rating": 3.9,
+      "installs": 10000,
+      "total_est_revenue": 594.44
+    },
+    {
+      "app_name": "Safe Scan 3D",
+      "category": "TOOLS",
+      "size_mb": 24.9,
+      "rating": 4.1,
+      "installs": 50000,
+      "total_est_revenue": 1768.56
+    },
+    {
+      "app_name": "Pocket Control Max",
+      "category": "FINANCE",
+      "size_mb": 65.3,
+      "rating": 3.7,
+      "installs": 1000,
+      "total_est_revenue": 836.03
+    },
+    {
+      "app_name": "Idle Arena AI",
+      "category": "GAME",
+      "size_mb": 185.0,
+      "rating": 4.3,
+      "installs": 100000,
+      "total_est_revenue": 25246.82
+    },
+    {
+      "app_name": "Safe Optimizer X",
+      "category": "TOOLS",
+      "size_mb": 30.1,
+      "rating": 3.4,
+      "installs": 500000,
+      "total_est_revenue": 4378.14
+    },
+    {
+      "app_name": "Dragon Master #3925",
+      "category": "GAME",
+      "size_mb": 113.7,
+      "rating": 4.5,
+      "installs": 5000,
+      "total_est_revenue": 992.18
+    },
+    {
+      "app_name": "Filter Filter X",
+      "category": "PHOTOGRAPHY",
+      "size_mb": 48.4,
+      "rating": 4.0,
+      "installs": 1000000,
+      "total_est_revenue": 366335.8
+    },
+    {
+      "app_name": "Cardio Health X",
+      "category": "HEALTH_AND_FITNESS",
+      "size_mb": 68.9,
+      "rating": 4.5,
+      "installs": 1000,
+      "total_est_revenue": 185.2
+    },
+    {
+      "app_name": "Aura Guide Lite",
+      "category": "LIFESTYLE",
+      "size_mb": 27.0,
+      "rating": 4.9,
+      "installs": 100000,
+      "total_est_revenue": 38058.78
+    },
+    {
+      "app_name": "Lens FX X",
+      "category": "PHOTOGRAPHY",
+      "size_mb": 57.3,
+      "rating": 4.2,
+      "installs": 500000,
+      "total_est_revenue": 84730.51
+    },
+    {
+      "app_name": "Ledger Direct",
+      "category": "FINANCE",
+      "size_mb": 36.0,
+      "rating": 3.7,
+      "installs": 50000,
+      "total_est_revenue": 21382.86
+    },
+    {
+      "app_name": "Focus Planner 3D",
+      "category": "PRODUCTIVITY",
+      "size_mb": 41.5,
+      "rating": 4.3,
+      "installs": 1000,
+      "total_est_revenue": 179.37
+    },
+    {
+      "app_name": "Super Arena #5757",
+      "category": "GAME",
+      "size_mb": 291.4,
+      "rating": 3.4,
+      "installs": 1000,
+      "total_est_revenue": 333.14
+    },
+    {
+      "app_name": "Pop Room",
+      "category": "ENTERTAINMENT",
+      "size_mb": 106.7,
+      "rating": 3.2,
+      "installs": 1000,
+      "total_est_revenue": 547.71
+    },
+    {
+      "app_name": "Flock Talk 2026",
+      "category": "SOCIAL",
+      "size_mb": 57.5,
+      "rating": 3.6,
+      "installs": 1000,
+      "total_est_revenue": 424.61
+    },
+    {
+      "app_name": "Hero Arena #5676",
+      "category": "GAME",
+      "size_mb": 269.5,
+      "rating": 4.1,
+      "installs": 5000000,
+      "total_est_revenue": 1276959.91
+    },
+    {
+      "app_name": "Tutor Junior Lite",
+      "category": "EDUCATION",
+      "size_mb": 100.0,
+      "rating": 4.3,
+      "installs": 1000,
+      "total_est_revenue": 2328.07
+    },
+    {
+      "app_name": "Glow Path X",
+      "category": "LIFESTYLE",
+      "size_mb": 19.5,
+      "rating": 4.6,
+      "installs": 10000,
+      "total_est_revenue": 3942.81
+    },
+    {
+      "app_name": "Epic Empire",
+      "category": "GAME",
+      "size_mb": 115.3,
+      "rating": 4.4,
+      "installs": 10000,
+      "total_est_revenue": 1437.62
+    },
+    {
+      "app_name": "Kingdom Quest #4392",
+      "category": "GAME",
+      "size_mb": 36.5,
+      "rating": 3.6,
+      "installs": 1000000,
+      "total_est_revenue": 387192.73
+    },
+    {
+      "app_name": "Fit Habit 2026",
+      "category": "HEALTH_AND_FITNESS",
+      "size_mb": 82.4,
+      "rating": 4.3,
+      "installs": 100000,
+      "total_est_revenue": 6413.16
+    },
+    {
+      "app_name": "Learn Hub 3D",
+      "category": "EDUCATION",
+      "size_mb": 76.3,
+      "rating": 4.5,
+      "installs": 5000,
+      "total_est_revenue": 2587.53
+    },
+    {
+      "app_name": "Lens Editor AI",
+      "category": "PHOTOGRAPHY",
+      "size_mb": 95.1,
+      "rating": 3.9,
+      "installs": 50000,
+      "total_est_revenue": 24029.07
+    },
+    {
+      "app_name": "Enterprise Manager 3D",
+      "category": "BUSINESS",
+      "size_mb": 18.2,
+      "rating": 3.8,
+      "installs": 1000000,
+      "total_est_revenue": 31384.86
+    },
+    {
+      "app_name": "Clean Suite AI",
+      "category": "PRODUCTIVITY",
+      "size_mb": 61.9,
+      "rating": 4.3,
+      "installs": 5000,
+      "total_est_revenue": 91.09
+    },
+    {
+      "app_name": "Safe Scan Go",
+      "category": "TOOLS",
+      "size_mb": 21.3,
+      "rating": 4.5,
+      "installs": 10000,
+      "total_est_revenue": 6930.0
+    },
+    {
+      "app_name": "Focus Tracker HD",
+      "category": "PRODUCTIVITY",
+      "size_mb": 43.3,
+      "rating": 4.1,
+      "installs": 5000,
+      "total_est_revenue": 772.31
+    },
+    {
+      "app_name": "Lumina Shot Go",
+      "category": "PHOTOGRAPHY",
+      "size_mb": 78.5,
+      "rating": 4.4,
+      "installs": 5000,
+      "total_est_revenue": 5215.0
+    },
+    {
+      "app_name": "Wealth Flow 2026",
+      "category": "FINANCE",
+      "size_mb": 15.3,
+      "rating": 4.7,
+      "installs": 100000,
+      "total_est_revenue": 11185.71
+    },
+    {
+      "app_name": "Organize Assistant Lite",
+      "category": "PRODUCTIVITY",
+      "size_mb": 54.2,
+      "rating": 4.8,
+      "installs": 1000,
+      "total_est_revenue": 751.26
+    },
+    {
+      "app_name": "Kingdom Legends X",
+      "category": "GAME",
+      "size_mb": 39.4,
+      "rating": 4.3,
+      "installs": 1000000,
+      "total_est_revenue": 389312.32
+    },
+    {
+      "app_name": "Pulse Habit 2026",
+      "category": "HEALTH_AND_FITNESS",
+      "size_mb": 78.4,
+      "rating": 4.4,
+      "installs": 1000,
+      "total_est_revenue": 1226.82
+    },
+    {
+      "app_name": "Tutor Quest",
+      "category": "EDUCATION",
+      "size_mb": 112.5,
+      "rating": 4.3,
+      "installs": 1000,
+      "total_est_revenue": 33.52
+    },
+    {
+      "app_name": "Vital Mind 2026",
+      "category": "HEALTH_AND_FITNESS",
+      "size_mb": 48.6,
+      "rating": 3.9,
+      "installs": 5000,
+      "total_est_revenue": 17465.0
+    },
+    {
+      "app_name": "Fit Burn",
+      "category": "HEALTH_AND_FITNESS",
+      "size_mb": 70.6,
+      "rating": 4.7,
+      "installs": 5000,
+      "total_est_revenue": 1153.32
+    },
+    {
+      "app_name": "Epic Chronicles #5869",
+      "category": "GAME",
+      "size_mb": 27.9,
+      "rating": 4.7,
+      "installs": 50000,
+      "total_est_revenue": 35411.67
+    },
+    {
+      "app_name": "Legend of Legends AI",
+      "category": "GAME",
+      "size_mb": 190.9,
+      "rating": 4.1,
+      "installs": 10000,
+      "total_est_revenue": 2850.32
+    },
+    {
+      "app_name": "Pixel Arena Max",
+      "category": "GAME",
+      "size_mb": 49.7,
+      "rating": 4.4,
+      "installs": 1000,
+      "total_est_revenue": 392.37
+    },
+    {
+      "app_name": "Hero Legends #4089",
+      "category": "GAME",
+      "size_mb": 248.7,
+      "rating": 4.1,
+      "installs": 500000,
+      "total_est_revenue": 346500.0
+    },
+    {
+      "app_name": "Organize Notes HD",
+      "category": "PRODUCTIVITY",
+      "size_mb": 50.7,
+      "rating": 3.5,
+      "installs": 10000,
+      "total_est_revenue": 1748.98
+    },
+    {
+      "app_name": "Speak Skills HD",
+      "category": "EDUCATION",
+      "size_mb": 26.6,
+      "rating": 4.4,
+      "installs": 5000,
+      "total_est_revenue": 6965.0
+    },
+    {
+      "app_name": "Pro Plus X",
+      "category": "PRODUCTIVITY",
+      "size_mb": 64.6,
+      "rating": 4.2,
+      "installs": 50000,
+      "total_est_revenue": 279650.0
+    },
+    {
+      "app_name": "Epic Warriors #5798",
+      "category": "GAME",
+      "size_mb": 56.1,
+      "rating": 4.3,
+      "installs": 1000000,
+      "total_est_revenue": 524995.0
+    },
+    {
+      "app_name": "Active Routine AI",
+      "category": "HEALTH_AND_FITNESS",
+      "size_mb": 59.7,
+      "rating": 4.5,
+      "installs": 5000,
+      "total_est_revenue": 2963.04
+    },
+    {
+      "app_name": "Pixel Run HD",
+      "category": "GAME",
+      "size_mb": 50.3,
+      "rating": 4.3,
+      "installs": 50000,
+      "total_est_revenue": 16849.45
+    },
+    {
+      "app_name": "Binge Tube Lite",
+      "category": "ENTERTAINMENT",
+      "size_mb": 90.6,
+      "rating": 4.3,
+      "installs": 10000,
+      "total_est_revenue": 8922.41
+    },
+    {
+      "app_name": "Pulse Health 2026",
+      "category": "HEALTH_AND_FITNESS",
+      "size_mb": 91.0,
+      "rating": 3.9,
+      "installs": 100000,
+      "total_est_revenue": 30941.74
+    },
+    {
+      "app_name": "Pixel Frames HD",
+      "category": "PHOTOGRAPHY",
+      "size_mb": 43.9,
+      "rating": 3.7,
+      "installs": 1000000,
+      "total_est_revenue": 1148779.21
+    },
+    {
+      "app_name": "Team Point HD",
+      "category": "BUSINESS",
+      "size_mb": 54.7,
+      "rating": 3.9,
+      "installs": 1000,
+      "total_est_revenue": 57.93
+    },
+    {
+      "app_name": "Shadow Quest AI",
+      "category": "GAME",
+      "size_mb": 107.2,
+      "rating": 4.2,
+      "installs": 1000000,
+      "total_est_revenue": 150066.04
+    },
+    {
+      "app_name": "Pro Planner Lite",
+      "category": "PRODUCTIVITY",
+      "size_mb": 74.2,
+      "rating": 4.8,
+      "installs": 50000,
+      "total_est_revenue": 69650.0
+    },
+    {
+      "app_name": "Spirit Home Lite",
+      "category": "LIFESTYLE",
+      "size_mb": 54.5,
+      "rating": 4.3,
+      "installs": 500000,
+      "total_est_revenue": 20707.69
+    },
+    {
+      "app_name": "Sync Network X",
+      "category": "SOCIAL",
+      "size_mb": 33.9,
+      "rating": 4.6,
+      "installs": 1000,
+      "total_est_revenue": 517.59
+    },
+    {
+      "app_name": "Active Health Lite",
+      "category": "HEALTH_AND_FITNESS",
+      "size_mb": 74.3,
+      "rating": 4.5,
+      "installs": 5000,
+      "total_est_revenue": 1525.48
+    },
+    {
+      "app_name": "Dragon Arena X",
+      "category": "GAME",
+      "size_mb": 139.2,
+      "rating": 3.3,
+      "installs": 1000000,
+      "total_est_revenue": 693000.0
+    },
+    {
+      "app_name": "Corp CRM Go",
+      "category": "BUSINESS",
+      "size_mb": 62.2,
+      "rating": 3.8,
+      "installs": 500000,
+      "total_est_revenue": 18967.84
+    },
+    {
+      "app_name": "Pixel Studio Go",
+      "category": "PHOTOGRAPHY",
+      "size_mb": 103.0,
+      "rating": 4.5,
+      "installs": 1000,
+      "total_est_revenue": 32.87
+    },
+    {
+      "app_name": "Kingdom Battle #4382",
+      "category": "GAME",
+      "size_mb": 51.8,
+      "rating": 4.4,
+      "installs": 1000,
+      "total_est_revenue": 238.69
+    },
+    {
+      "app_name": "Sale CRM Lite",
+      "category": "BUSINESS",
+      "size_mb": 52.4,
+      "rating": 4.5,
+      "installs": 10000,
+      "total_est_revenue": 147831.39
+    },
+    {
+      "app_name": "Tribe Match 2026",
+      "category": "SOCIAL",
+      "size_mb": 86.3,
+      "rating": 4.1,
+      "installs": 1000,
+      "total_est_revenue": 304.71
+    },
+    {
+      "app_name": "Cash Vault",
+      "category": "FINANCE",
+      "size_mb": 54.9,
+      "rating": 3.8,
+      "installs": 50000,
+      "total_est_revenue": 3386.36
+    },
+    {
+      "app_name": "Pixel Empire #4181",
+      "category": "GAME",
+      "size_mb": 205.5,
+      "rating": 3.8,
+      "installs": 100000,
+      "total_est_revenue": 63496.13
+    },
+    {
+      "app_name": "Ultra Tool X",
+      "category": "TOOLS",
+      "size_mb": 33.0,
+      "rating": 4.6,
+      "installs": 1000,
+      "total_est_revenue": 45.0
+    },
+    {
+      "app_name": "Hangout Social AI",
+      "category": "SOCIAL",
+      "size_mb": 54.9,
+      "rating": 4.4,
+      "installs": 50000000,
+      "total_est_revenue": 14243157.94
+    },
+    {
+      "app_name": "Circle App X",
+      "category": "SOCIAL",
+      "size_mb": 57.0,
+      "rating": 3.6,
+      "installs": 50000,
+      "total_est_revenue": 139650.0
+    },
+    {
+      "app_name": "Hero Quest 3D",
+      "category": "GAME",
+      "size_mb": 92.7,
+      "rating": 4.5,
+      "installs": 5000,
+      "total_est_revenue": 2003.79
+    },
+    {
+      "app_name": "Quick Boost 2026",
+      "category": "TOOLS",
+      "size_mb": 30.5,
+      "rating": 3.9,
+      "installs": 10000,
+      "total_est_revenue": 4810.09
+    },
+    {
+      "app_name": "Flock Spot",
+      "category": "SOCIAL",
+      "size_mb": 72.0,
+      "rating": 3.9,
+      "installs": 100000,
+      "total_est_revenue": 32243.46
+    },
+    {
+      "app_name": "Flow Desk Max",
+      "category": "PRODUCTIVITY",
+      "size_mb": 30.6,
+      "rating": 4.4,
+      "installs": 100000,
+      "total_est_revenue": 209300.0
+    },
+    {
+      "app_name": "Quick Tracker Go",
+      "category": "PRODUCTIVITY",
+      "size_mb": 38.5,
+      "rating": 4.5,
+      "installs": 1000,
+      "total_est_revenue": 252.05
+    },
+    {
+      "app_name": "Legend of Empire 3D",
+      "category": "GAME",
+      "size_mb": 69.5,
+      "rating": 4.3,
+      "installs": 50000000,
+      "total_est_revenue": 28456126.25
+    },
+    {
+      "app_name": "Legend of Chronicles 2026",
+      "category": "GAME",
+      "size_mb": 308.1,
+      "rating": 4.3,
+      "installs": 1000,
+      "total_est_revenue": 639.53
+    },
+    {
+      "app_name": "Echo Spot AI",
+      "category": "SOCIAL",
+      "size_mb": 112.4,
+      "rating": 3.9,
+      "installs": 1000000,
+      "total_est_revenue": 459298.79
+    },
+    {
+      "app_name": "Pixel Legends #4095",
+      "category": "GAME",
+      "size_mb": 45.3,
+      "rating": 4.1,
+      "installs": 1000,
+      "total_est_revenue": 228.21
+    },
+    {
+      "app_name": "Super Empire 2026",
+      "category": "GAME",
+      "size_mb": 266.1,
+      "rating": 4.5,
+      "installs": 10000000,
+      "total_est_revenue": 318605.26
+    },
+    {
+      "app_name": "Vibe Flix 2026",
+      "category": "ENTERTAINMENT",
+      "size_mb": 43.8,
+      "rating": 3.9,
+      "installs": 100000,
+      "total_est_revenue": 3911.03
+    },
+    {
+      "app_name": "Hero Empire #5923",
+      "category": "GAME",
+      "size_mb": 188.1,
+      "rating": 4.7,
+      "installs": 50000,
+      "total_est_revenue": 7614.25
+    },
+    {
+      "app_name": "Fit Zone Lite",
+      "category": "HEALTH_AND_FITNESS",
+      "size_mb": 43.1,
+      "rating": 4.4,
+      "installs": 50000,
+      "total_est_revenue": 33055.36
+    },
+    {
+      "app_name": "Super Chronicles #5856",
+      "category": "GAME",
+      "size_mb": 267.0,
+      "rating": 4.3,
+      "installs": 10000,
+      "total_est_revenue": 6930.0
+    },
+    {
+      "app_name": "Pro Tracker 2026",
+      "category": "PRODUCTIVITY",
+      "size_mb": 53.4,
+      "rating": 4.3,
+      "installs": 10000,
+      "total_est_revenue": 236.89
+    },
+    {
+      "app_name": "Chic Daily 3D",
+      "category": "LIFESTYLE",
+      "size_mb": 21.1,
+      "rating": 4.3,
+      "installs": 1000,
+      "total_est_revenue": 570.23
+    },
+    {
+      "app_name": "Cash Vault AI",
+      "category": "FINANCE",
+      "size_mb": 68.8,
+      "rating": 3.8,
+      "installs": 50000000,
+      "total_est_revenue": 28299804.03
+    },
+    {
+      "app_name": "Shadow Empire HD",
+      "category": "GAME",
+      "size_mb": 191.9,
+      "rating": 4.2,
+      "installs": 100000,
+      "total_est_revenue": 4610.39
+    },
+    {
+      "app_name": "Invoice Portal Go",
+      "category": "BUSINESS",
+      "size_mb": 70.4,
+      "rating": 4.0,
+      "installs": 50000,
+      "total_est_revenue": 1628.84
+    },
+    {
+      "app_name": "Retro Shot HD",
+      "category": "PHOTOGRAPHY",
+      "size_mb": 65.4,
+      "rating": 4.0,
+      "installs": 50000000,
+      "total_est_revenue": 14487900.02
+    },
+    {
+      "app_name": "Bond Connect Lite",
+      "category": "SOCIAL",
+      "size_mb": 44.3,
+      "rating": 4.1,
+      "installs": 1000,
+      "total_est_revenue": 334.83
+    },
+    {
+      "app_name": "Daily Mind Lite",
+      "category": "HEALTH_AND_FITNESS",
+      "size_mb": 32.6,
+      "rating": 4.6,
+      "installs": 50000,
+      "total_est_revenue": 104650.0
+    },
+    {
+      "app_name": "Spirit Inspo X",
+      "category": "LIFESTYLE",
+      "size_mb": 69.3,
+      "rating": 4.4,
+      "installs": 5000,
+      "total_est_revenue": 795.59
+    },
+    {
+      "app_name": "Bond Connect",
+      "category": "SOCIAL",
+      "size_mb": 38.7,
+      "rating": 4.0,
+      "installs": 5000,
+      "total_est_revenue": 6965.0
+    },
+    {
+      "app_name": "Safe Cleaner Go",
+      "category": "TOOLS",
+      "size_mb": 38.7,
+      "rating": 3.7,
+      "installs": 50000,
+      "total_est_revenue": 1591.69
+    },
+    {
+      "app_name": "Wealth Tracker AI",
+      "category": "FINANCE",
+      "size_mb": 58.7,
+      "rating": 4.5,
+      "installs": 10000,
+      "total_est_revenue": 4077.56
+    },
+    {
+      "app_name": "Enterprise Pro",
+      "category": "BUSINESS",
+      "size_mb": 55.9,
+      "rating": 4.9,
+      "installs": 10000,
+      "total_est_revenue": 3075.84
+    },
+    {
+      "app_name": "Ultra Speed 2026",
+      "category": "TOOLS",
+      "size_mb": 42.3,
+      "rating": 5.0,
+      "installs": 10000,
+      "total_est_revenue": 394.64
+    },
+    {
+      "app_name": "Binge TV 2026",
+      "category": "ENTERTAINMENT",
+      "size_mb": 78.2,
+      "rating": 4.4,
+      "installs": 10000,
+      "total_est_revenue": 6930.0
+    },
+    {
+      "app_name": "Master Cleaner Lite",
+      "category": "TOOLS",
+      "size_mb": 19.9,
+      "rating": 3.8,
+      "installs": 50000,
+      "total_est_revenue": 1275.87
+    },
+    {
+      "app_name": "Art Frames 2026",
+      "category": "PHOTOGRAPHY",
+      "size_mb": 40.2,
+      "rating": 3.9,
+      "installs": 1000000,
+      "total_est_revenue": 271257.79
+    },
+    {
+      "app_name": "Glam FX 3D",
+      "category": "PHOTOGRAPHY",
+      "size_mb": 22.6,
+      "rating": 4.2,
+      "installs": 5000,
+      "total_est_revenue": 1402.79
+    },
+    {
+      "app_name": "Art Shot",
+      "category": "PHOTOGRAPHY",
+      "size_mb": 33.9,
+      "rating": 4.4,
+      "installs": 1000,
+      "total_est_revenue": 459.6
+    },
+    {
+      "app_name": "Chat Social",
+      "category": "SOCIAL",
+      "size_mb": 104.7,
+      "rating": 4.4,
+      "installs": 1000000,
+      "total_est_revenue": 70945.36
+    },
+    {
+      "app_name": "Shadow Master Go",
+      "category": "GAME",
+      "size_mb": 276.0,
+      "rating": 4.2,
+      "installs": 5000000,
+      "total_est_revenue": 2993781.28
+    },
+    {
+      "app_name": "Pure Guide 2026",
+      "category": "HEALTH_AND_FITNESS",
+      "size_mb": 32.8,
+      "rating": 3.9,
+      "installs": 1000000,
+      "total_est_revenue": 312142.22
+    },
+    {
+      "app_name": "Cinema Tube Lite",
+      "category": "ENTERTAINMENT",
+      "size_mb": 27.6,
+      "rating": 4.1,
+      "installs": 50000,
+      "total_est_revenue": 48988.9
+    },
+    {
+      "app_name": "Chill Room 3D",
+      "category": "ENTERTAINMENT",
+      "size_mb": 55.3,
+      "rating": 4.5,
+      "installs": 100000,
+      "total_est_revenue": 48158.7
+    },
+    {
+      "app_name": "Kingdom Battle #4814",
+      "category": "GAME",
+      "size_mb": 295.7,
+      "rating": 4.7,
+      "installs": 5000,
+      "total_est_revenue": 4426.52
+    },
+    {
+      "app_name": "Echo Spot 3D",
+      "category": "SOCIAL",
+      "size_mb": 104.1,
+      "rating": 3.1,
+      "installs": 10000,
+      "total_est_revenue": 3834.88
+    },
+    {
+      "app_name": "Shadow Warriors X",
+      "category": "GAME",
+      "size_mb": 283.1,
+      "rating": 4.8,
+      "installs": 500000,
+      "total_est_revenue": 168780.68
+    },
+    {
+      "app_name": "Quick Shield AI",
+      "category": "TOOLS",
+      "size_mb": 40.3,
+      "rating": 3.8,
+      "installs": 1000,
+      "total_est_revenue": 25.14
+    },
+    {
+      "app_name": "Active Health Go",
+      "category": "HEALTH_AND_FITNESS",
+      "size_mb": 18.3,
+      "rating": 4.4,
+      "installs": 1000,
+      "total_est_revenue": 34.23
+    },
+    {
+      "app_name": "Pure Coach Lite",
+      "category": "HEALTH_AND_FITNESS",
+      "size_mb": 88.0,
+      "rating": 4.4,
+      "installs": 10000,
+      "total_est_revenue": 3483.85
+    },
+    {
+      "app_name": "Epic Warriors #5443",
+      "category": "GAME",
+      "size_mb": 125.8,
+      "rating": 4.2,
+      "installs": 10000,
+      "total_est_revenue": 5424.98
+    },
+    {
+      "app_name": "Pixel Arena #6002",
+      "category": "GAME",
+      "size_mb": 220.8,
+      "rating": 4.2,
+      "installs": 10000,
+      "total_est_revenue": 2184.61
+    },
+    {
+      "app_name": "Turbo Tool HD",
+      "category": "TOOLS",
+      "size_mb": 36.4,
+      "rating": 4.6,
+      "installs": 50000,
+      "total_est_revenue": 2242.49
+    },
+    {
+      "app_name": "Pop TV Lite",
+      "category": "ENTERTAINMENT",
+      "size_mb": 54.6,
+      "rating": 4.1,
+      "installs": 10000000,
+      "total_est_revenue": 189045.35
+    },
+    {
+      "app_name": "Legend of Run",
+      "category": "GAME",
+      "size_mb": 139.4,
+      "rating": 4.3,
+      "installs": 1000000,
+      "total_est_revenue": 342722.14
+    },
+    {
+      "app_name": "Epic Warriors Lite",
+      "category": "GAME",
+      "size_mb": 213.0,
+      "rating": 4.1,
+      "installs": 1000,
+      "total_est_revenue": 26.58
+    },
+    {
+      "app_name": "Epic Chronicles #6024",
+      "category": "GAME",
+      "size_mb": 149.9,
+      "rating": 4.3,
+      "installs": 50000,
+      "total_est_revenue": 7973.97
+    },
+    {
+      "app_name": "Enterprise CRM 3D",
+      "category": "BUSINESS",
+      "size_mb": 62.0,
+      "rating": 4.4,
+      "installs": 5000,
+      "total_est_revenue": 234.07
+    },
+    {
+      "app_name": "Safe Speed 3D",
+      "category": "TOOLS",
+      "size_mb": 30.5,
+      "rating": 4.1,
+      "installs": 5000000,
+      "total_est_revenue": 1499400.22
+    },
+    {
+      "app_name": "Binge Wave X",
+      "category": "ENTERTAINMENT",
+      "size_mb": 116.5,
+      "rating": 3.7,
+      "installs": 5000,
+      "total_est_revenue": 13151.57
+    },
+    {
+      "app_name": "Legend of Warriors #4632",
+      "category": "GAME",
+      "size_mb": 75.4,
+      "rating": 4.2,
+      "installs": 50000,
+      "total_est_revenue": 2584.44
+    },
+    {
+      "app_name": "Legend of Warriors HD",
+      "category": "GAME",
+      "size_mb": 198.4,
+      "rating": 4.1,
+      "installs": 10000,
+      "total_est_revenue": 2927.75
+    },
+    {
+      "app_name": "Wink App Max",
+      "category": "SOCIAL",
+      "size_mb": 102.6,
+      "rating": 4.5,
+      "installs": 1000,
+      "total_est_revenue": 36.0
+    },
+    {
+      "app_name": "Cardio Mind HD",
+      "category": "HEALTH_AND_FITNESS",
+      "size_mb": 33.7,
+      "rating": 4.3,
+      "installs": 1000,
+      "total_est_revenue": 25.07
+    },
+    {
+      "app_name": "Ledger Pro Go",
+      "category": "FINANCE",
+      "size_mb": 71.4,
+      "rating": 4.2,
+      "installs": 10000,
+      "total_est_revenue": 878.14
+    },
+    {
+      "app_name": "Client Pro 3D",
+      "category": "BUSINESS",
+      "size_mb": 21.3,
+      "rating": 4.1,
+      "installs": 50000,
+      "total_est_revenue": 35058.12
+    },
+    {
+      "app_name": "Quick Manager Go",
+      "category": "PRODUCTIVITY",
+      "size_mb": 54.4,
+      "rating": 4.5,
+      "installs": 1000,
+      "total_est_revenue": 294.13
+    },
+    {
+      "app_name": "Turbo Tool X",
+      "category": "TOOLS",
+      "size_mb": 27.4,
+      "rating": 4.2,
+      "installs": 1000,
+      "total_est_revenue": 16.36
+    },
+    {
+      "app_name": "Epic Battle",
+      "category": "GAME",
+      "size_mb": 110.2,
+      "rating": 4.1,
+      "installs": 100000,
+      "total_est_revenue": 19611.59
+    },
+    {
+      "app_name": "Pixel Studio AI",
+      "category": "PHOTOGRAPHY",
+      "size_mb": 75.0,
+      "rating": 4.6,
+      "installs": 5000,
+      "total_est_revenue": 3272.13
+    },
+    {
+      "app_name": "Stream Room Go",
+      "category": "ENTERTAINMENT",
+      "size_mb": 59.4,
+      "rating": 3.2,
+      "installs": 1000,
+      "total_est_revenue": 126.34
+    },
+    {
+      "app_name": "Dream Journal HD",
+      "category": "LIFESTYLE",
+      "size_mb": 50.7,
+      "rating": 3.4,
+      "installs": 50000,
+      "total_est_revenue": 23790.31
+    },
+    {
+      "app_name": "Active Zone Max",
+      "category": "HEALTH_AND_FITNESS",
+      "size_mb": 38.4,
+      "rating": 4.0,
+      "installs": 100000,
+      "total_est_revenue": 699300.0
+    },
+    {
+      "app_name": "Cozy Path AI",
+      "category": "LIFESTYLE",
+      "size_mb": 24.3,
+      "rating": 4.6,
+      "installs": 50000,
+      "total_est_revenue": 1732.86
+    },
+    {
+      "app_name": "Cast Tube 2026",
+      "category": "ENTERTAINMENT",
+      "size_mb": 37.2,
+      "rating": 4.8,
+      "installs": 1000,
+      "total_est_revenue": 313.79
+    },
+    {
+      "app_name": "Legend of Legends #6354",
+      "category": "GAME",
+      "size_mb": 200.9,
+      "rating": 3.8,
+      "installs": 50000,
+      "total_est_revenue": 11909.84
+    },
+    {
+      "app_name": "Epic Craft #5179",
+      "category": "GAME",
+      "size_mb": 262.0,
+      "rating": 3.9,
+      "installs": 5000,
+      "total_est_revenue": 420.75
+    },
+    {
+      "app_name": "Easy Optimizer Max",
+      "category": "TOOLS",
+      "size_mb": 23.6,
+      "rating": 4.0,
+      "installs": 100000,
+      "total_est_revenue": 26065.92
+    },
+    {
+      "app_name": "Idle Empire Go",
+      "category": "GAME",
+      "size_mb": 59.4,
+      "rating": 4.5,
+      "installs": 50000,
+      "total_est_revenue": 24954.48
+    },
+    {
+      "app_name": "Flicks Zone 3D",
+      "category": "ENTERTAINMENT",
+      "size_mb": 78.6,
+      "rating": 4.8,
+      "installs": 50000,
+      "total_est_revenue": 7217.63
+    },
+    {
+      "app_name": "Spend Flow 2026",
+      "category": "FINANCE",
+      "size_mb": 60.5,
+      "rating": 4.3,
+      "installs": 10000,
+      "total_est_revenue": 5443.0
+    },
+    {
+      "app_name": "Fast Tool X",
+      "category": "TOOLS",
+      "size_mb": 7.6,
+      "rating": 3.5,
+      "installs": 1000000,
+      "total_est_revenue": 10604.32
+    },
+    {
+      "app_name": "Dragon Craft Max",
+      "category": "GAME",
+      "size_mb": 113.8,
+      "rating": 4.0,
+      "installs": 10000,
+      "total_est_revenue": 2199.09
+    },
+    {
+      "app_name": "Binge TV Go",
+      "category": "ENTERTAINMENT",
+      "size_mb": 83.3,
+      "rating": 4.1,
+      "installs": 1000000,
+      "total_est_revenue": 424675.52
+    },
+    {
+      "app_name": "Cozy Path",
+      "category": "LIFESTYLE",
+      "size_mb": 21.7,
+      "rating": 4.4,
+      "installs": 50000,
+      "total_est_revenue": 22221.84
+    },
+    {
+      "app_name": "Pixel Battle Max",
+      "category": "GAME",
+      "size_mb": 228.1,
+      "rating": 3.8,
+      "installs": 100000,
+      "total_est_revenue": 36113.07
+    },
+    {
+      "app_name": "Fit Guide Go",
+      "category": "HEALTH_AND_FITNESS",
+      "size_mb": 43.5,
+      "rating": 4.5,
+      "installs": 1000,
+      "total_est_revenue": 1167.67
+    },
+    {
+      "app_name": "Capital Flow 3D",
+      "category": "FINANCE",
+      "size_mb": 54.5,
+      "rating": 4.3,
+      "installs": 50000,
+      "total_est_revenue": 12891.78
+    },
+    {
+      "app_name": "Epic Battle Go",
+      "category": "GAME",
+      "size_mb": 168.4,
+      "rating": 4.5,
+      "installs": 100000,
+      "total_est_revenue": 7535.02
+    },
+    {
+      "app_name": "Organize Hub Lite",
+      "category": "PRODUCTIVITY",
+      "size_mb": 23.7,
+      "rating": 4.3,
+      "installs": 10000,
+      "total_est_revenue": 1166.83
+    },
+    {
+      "app_name": "Chat Live Go",
+      "category": "SOCIAL",
+      "size_mb": 34.9,
+      "rating": 3.8,
+      "installs": 1000,
+      "total_est_revenue": 393.27
+    },
+    {
+      "app_name": "Tune Box Lite",
+      "category": "ENTERTAINMENT",
+      "size_mb": 83.7,
+      "rating": 3.9,
+      "installs": 50000,
+      "total_est_revenue": 40514.76
+    },
+    {
+      "app_name": "Dragon Battle AI",
+      "category": "GAME",
+      "size_mb": 292.0,
+      "rating": 4.3,
+      "installs": 1000,
+      "total_est_revenue": 209.58
+    },
+    {
+      "app_name": "Focus Manager",
+      "category": "PRODUCTIVITY",
+      "size_mb": 69.4,
+      "rating": 4.6,
+      "installs": 1000000,
+      "total_est_revenue": 437886.24
+    },
+    {
+      "app_name": "Quiz Studio Go",
+      "category": "EDUCATION",
+      "size_mb": 124.5,
+      "rating": 4.6,
+      "installs": 1000,
+      "total_est_revenue": 187.4
+    },
+    {
+      "app_name": "Chat Spot Max",
+      "category": "SOCIAL",
+      "size_mb": 60.8,
+      "rating": 3.7,
+      "installs": 5000,
+      "total_est_revenue": 1392.62
+    },
+    {
+      "app_name": "Pixel Warriors #5838",
+      "category": "GAME",
+      "size_mb": 180.1,
+      "rating": 3.9,
+      "installs": 1000,
+      "total_est_revenue": 321.88
+    },
+    {
+      "app_name": "Cozy Path Go",
+      "category": "LIFESTYLE",
+      "size_mb": 39.4,
+      "rating": 4.2,
+      "installs": 100000,
+      "total_est_revenue": 1680.89
+    },
+    {
+      "app_name": "Super Quest Go",
+      "category": "GAME",
+      "size_mb": 70.3,
+      "rating": 4.7,
+      "installs": 10000000,
+      "total_est_revenue": 5482420.54
+    },
+    {
+      "app_name": "Clash of Legends Max",
+      "category": "GAME",
+      "size_mb": 185.1,
+      "rating": 4.9,
+      "installs": 500000,
+      "total_est_revenue": 1746500.0
+    },
+    {
+      "app_name": "Task Notes X",
+      "category": "PRODUCTIVITY",
+      "size_mb": 58.4,
+      "rating": 4.1,
+      "installs": 5000,
+      "total_est_revenue": 4276.98
+    },
+    {
+      "app_name": "Easy Utility AI",
+      "category": "TOOLS",
+      "size_mb": 16.3,
+      "rating": 4.2,
+      "installs": 100000,
+      "total_est_revenue": 1987.59
+    },
+    {
+      "app_name": "Wink Spot",
+      "category": "SOCIAL",
+      "size_mb": 129.4,
+      "rating": 4.3,
+      "installs": 1000,
+      "total_est_revenue": 446.43
+    },
+    {
+      "app_name": "Clash of Warriors Max",
+      "category": "GAME",
+      "size_mb": 114.4,
+      "rating": 4.9,
+      "installs": 1000000,
+      "total_est_revenue": 539013.74
+    },
+    {
+      "app_name": "Smart Desk",
+      "category": "PRODUCTIVITY",
+      "size_mb": 48.7,
+      "rating": 3.8,
+      "installs": 1000000,
+      "total_est_revenue": 181366.43
+    },
+    {
+      "app_name": "Flock Connect AI",
+      "category": "SOCIAL",
+      "size_mb": 50.8,
+      "rating": 3.5,
+      "installs": 50000,
+      "total_est_revenue": 7077.35
+    },
+    {
+      "app_name": "Academy Prep X",
+      "category": "EDUCATION",
+      "size_mb": 92.6,
+      "rating": 4.0,
+      "installs": 5000,
+      "total_est_revenue": 136.8
+    },
+    {
+      "app_name": "Clean Suite X",
+      "category": "PRODUCTIVITY",
+      "size_mb": 50.0,
+      "rating": 4.1,
+      "installs": 10000,
+      "total_est_revenue": 104930.0
+    },
+    {
+      "app_name": "Sale Desk 2026",
+      "category": "BUSINESS",
+      "size_mb": 32.4,
+      "rating": 4.4,
+      "installs": 500000,
+      "total_est_revenue": 589666.23
+    },
+    {
+      "app_name": "Clean WorkSpace",
+      "category": "PRODUCTIVITY",
+      "size_mb": 22.4,
+      "rating": 3.7,
+      "installs": 5000,
+      "total_est_revenue": 1556.57
+    },
+    {
+      "app_name": "Tutor Flashcards Go",
+      "category": "EDUCATION",
+      "size_mb": 111.0,
+      "rating": 4.8,
+      "installs": 5000,
+      "total_est_revenue": 2148.13
+    },
+    {
+      "app_name": "Tune Room 3D",
+      "category": "ENTERTAINMENT",
+      "size_mb": 66.6,
+      "rating": 3.2,
+      "installs": 1000000,
+      "total_est_revenue": 25877.8
+    },
+    {
+      "app_name": "Team Manager",
+      "category": "BUSINESS",
+      "size_mb": 84.4,
+      "rating": 4.4,
+      "installs": 100000,
+      "total_est_revenue": 56068.26
+    },
+    {
+      "app_name": "Super Master",
+      "category": "GAME",
+      "size_mb": 172.0,
+      "rating": 4.4,
+      "installs": 50000,
+      "total_est_revenue": 16792.84
+    },
+    {
+      "app_name": "Turbo Shield",
+      "category": "TOOLS",
+      "size_mb": 24.7,
+      "rating": 4.6,
+      "installs": 1000000,
+      "total_est_revenue": 163805.08
+    },
+    {
+      "app_name": "Legend of Warriors #6274",
+      "category": "GAME",
+      "size_mb": 159.1,
+      "rating": 3.9,
+      "installs": 100000,
+      "total_est_revenue": 70960.77
+    },
+    {
+      "app_name": "Stream Zone Lite",
+      "category": "ENTERTAINMENT",
+      "size_mb": 74.7,
+      "rating": 4.5,
+      "installs": 100000,
+      "total_est_revenue": 35801.32
+    },
+    {
+      "app_name": "Binge Zone",
+      "category": "ENTERTAINMENT",
+      "size_mb": 32.1,
+      "rating": 4.0,
+      "installs": 500000,
+      "total_est_revenue": 208019.88
+    },
+    {
+      "app_name": "Pixel Chronicles #4629",
+      "category": "GAME",
+      "size_mb": 92.4,
+      "rating": 4.0,
+      "installs": 50000,
+      "total_est_revenue": 11421.1
+    },
+    {
+      "app_name": "Clash of Legends HD",
+      "category": "GAME",
+      "size_mb": 154.9,
+      "rating": 4.6,
+      "installs": 100000,
+      "total_est_revenue": 89210.65
+    },
+    {
+      "app_name": "Fast Optimizer 2026",
+      "category": "TOOLS",
+      "size_mb": 34.0,
+      "rating": 3.4,
+      "installs": 100000,
+      "total_est_revenue": 3408.45
+    },
+    {
+      "app_name": "Kingdom Warriors #6014",
+      "category": "GAME",
+      "size_mb": 310.0,
+      "rating": 3.9,
+      "installs": 10000,
+      "total_est_revenue": 5806.78
+    },
+    {
+      "app_name": "Idle Run #3800",
+      "category": "GAME",
+      "size_mb": 184.2,
+      "rating": 4.3,
+      "installs": 10000,
+      "total_est_revenue": 16067.21
+    },
+    {
+      "app_name": "Lens Frames",
+      "category": "PHOTOGRAPHY",
+      "size_mb": 42.8,
+      "rating": 4.2,
+      "installs": 1000000,
+      "total_est_revenue": 314046.6
+    },
+    {
+      "app_name": "Super Quest Max",
+      "category": "GAME",
+      "size_mb": 65.5,
+      "rating": 4.3,
+      "installs": 5000,
+      "total_est_revenue": 3465.0
+    },
+    {
+      "app_name": "Easy Tool AI",
+      "category": "TOOLS",
+      "size_mb": 33.1,
+      "rating": 4.2,
+      "installs": 10000,
+      "total_est_revenue": 190.07
+    },
+    {
+      "app_name": "Sync Spot 2026",
+      "category": "SOCIAL",
+      "size_mb": 106.1,
+      "rating": 4.5,
+      "installs": 10000,
+      "total_est_revenue": 2427.5
+    },
+    {
+      "app_name": "Clash of Warriors",
+      "category": "GAME",
+      "size_mb": 97.9,
+      "rating": 4.0,
+      "installs": 100000,
+      "total_est_revenue": 15820.59
+    },
+    {
+      "app_name": "Hero Legends 2026",
+      "category": "GAME",
+      "size_mb": 232.5,
+      "rating": 4.0,
+      "installs": 1000,
+      "total_est_revenue": 392.71
+    },
+    {
+      "app_name": "Academy Prep HD",
+      "category": "EDUCATION",
+      "size_mb": 36.3,
+      "rating": 4.4,
+      "installs": 1000,
+      "total_est_revenue": 239.93
+    },
+    {
+      "app_name": "Power Scan AI",
+      "category": "TOOLS",
+      "size_mb": 33.3,
+      "rating": 3.6,
+      "installs": 500000,
+      "total_est_revenue": 17988.81
+    },
+    {
+      "app_name": "Daily Burn Go",
+      "category": "HEALTH_AND_FITNESS",
+      "size_mb": 70.6,
+      "rating": 3.9,
+      "installs": 1000,
+      "total_est_revenue": 589.19
+    },
+    {
+      "app_name": "Retro Frames Go",
+      "category": "PHOTOGRAPHY",
+      "size_mb": 81.9,
+      "rating": 4.4,
+      "installs": 100000,
+      "total_est_revenue": 2471.6
+    },
+    {
+      "app_name": "Edu Hub Lite",
+      "category": "EDUCATION",
+      "size_mb": 20.6,
+      "rating": 4.8,
+      "installs": 500000,
+      "total_est_revenue": 214449.12
+    },
+    {
+      "app_name": "Scale Portal HD",
+      "category": "BUSINESS",
+      "size_mb": 81.8,
+      "rating": 3.9,
+      "installs": 1000,
+      "total_est_revenue": 6993.0
+    },
+    {
+      "app_name": "Hero Quest AI",
+      "category": "GAME",
+      "size_mb": 237.1,
+      "rating": 4.4,
+      "installs": 500000,
+      "total_est_revenue": 196301.5
+    },
+    {
+      "app_name": "Capital Flow 2026",
+      "category": "FINANCE",
+      "size_mb": 72.4,
+      "rating": 4.3,
+      "installs": 10000,
+      "total_est_revenue": 688.39
+    },
+    {
+      "app_name": "Iron Guide",
+      "category": "HEALTH_AND_FITNESS",
+      "size_mb": 25.2,
+      "rating": 4.4,
+      "installs": 10000,
+      "total_est_revenue": 34930.0
+    },
+    {
+      "app_name": "Ledger Advisor X",
+      "category": "FINANCE",
+      "size_mb": 40.9,
+      "rating": 4.7,
+      "installs": 500000,
+      "total_est_revenue": 429714.17
+    },
+    {
+      "app_name": "Academy Junior Max",
+      "category": "EDUCATION",
+      "size_mb": 28.3,
+      "rating": 4.1,
+      "installs": 1000000,
+      "total_est_revenue": 2093000.0
+    },
+    {
+      "app_name": "Filter Story AI",
+      "category": "PHOTOGRAPHY",
+      "size_mb": 41.2,
+      "rating": 4.3,
+      "installs": 50000,
+      "total_est_revenue": 19361.49
+    },
+    {
+      "app_name": "Sync Live AI",
+      "category": "SOCIAL",
+      "size_mb": 66.3,
+      "rating": 3.3,
+      "installs": 1000,
+      "total_est_revenue": 410.43
+    },
+    {
+      "app_name": "Ledger Vault HD",
+      "category": "FINANCE",
+      "size_mb": 46.8,
+      "rating": 3.4,
+      "installs": 5000,
+      "total_est_revenue": 1236.08
+    },
+    {
+      "app_name": "Smart Direct HD",
+      "category": "FINANCE",
+      "size_mb": 77.0,
+      "rating": 3.6,
+      "installs": 1000,
+      "total_est_revenue": 2793.0
+    },
+    {
+      "app_name": "Idle Run HD",
+      "category": "GAME",
+      "size_mb": 97.9,
+      "rating": 3.9,
+      "installs": 10000,
+      "total_est_revenue": 3790.51
+    },
+    {
+      "app_name": "Super Arena Go",
+      "category": "GAME",
+      "size_mb": 65.9,
+      "rating": 5.0,
+      "installs": 100000,
+      "total_est_revenue": 54704.36
+    },
+    {
+      "app_name": "Dragon Arena #4951",
+      "category": "GAME",
+      "size_mb": 182.8,
+      "rating": 3.9,
+      "installs": 1000,
+      "total_est_revenue": 127.92
+    },
+    {
+      "app_name": "Brain Junior 2026",
+      "category": "EDUCATION",
+      "size_mb": 56.4,
+      "rating": 4.4,
+      "installs": 5000,
+      "total_est_revenue": 26438.91
+    },
+    {
+      "app_name": "Vital Zone Lite",
+      "category": "HEALTH_AND_FITNESS",
+      "size_mb": 25.7,
+      "rating": 4.6,
+      "installs": 1000000,
+      "total_est_revenue": 41360.22
+    },
+    {
+      "app_name": "Circle Network HD",
+      "category": "SOCIAL",
+      "size_mb": 82.7,
+      "rating": 3.8,
+      "installs": 10000,
+      "total_est_revenue": 558.14
+    },
+    {
+      "app_name": "Epic Master AI",
+      "category": "GAME",
+      "size_mb": 259.1,
+      "rating": 4.3,
+      "installs": 1000,
+      "total_est_revenue": 90.51
+    },
+    {
+      "app_name": "Dragon Warriors 2026",
+      "category": "GAME",
+      "size_mb": 48.1,
+      "rating": 4.1,
+      "installs": 10000,
+      "total_est_revenue": 600.2
+    },
+    {
+      "app_name": "Organize Assistant",
+      "category": "PRODUCTIVITY",
+      "size_mb": 64.4,
+      "rating": 4.1,
+      "installs": 1000,
+      "total_est_revenue": 631.42
+    },
+    {
+      "app_name": "Retro Frames X",
+      "category": "PHOTOGRAPHY",
+      "size_mb": 42.4,
+      "rating": 4.2,
+      "installs": 5000,
+      "total_est_revenue": 3005.39
+    },
+    {
+      "app_name": "Cinema Tube HD",
+      "category": "ENTERTAINMENT",
+      "size_mb": 59.8,
+      "rating": 4.1,
+      "installs": 1000,
+      "total_est_revenue": 382.97
+    },
+    {
+      "app_name": "Cardio Burn HD",
+      "category": "HEALTH_AND_FITNESS",
+      "size_mb": 78.0,
+      "rating": 4.7,
+      "installs": 50000,
+      "total_est_revenue": 21378.25
+    },
+    {
+      "app_name": "Hangout Social 2026",
+      "category": "SOCIAL",
+      "size_mb": 51.3,
+      "rating": 4.4,
+      "installs": 1000000,
+      "total_est_revenue": 385984.3
+    },
+    {
+      "app_name": "Biz CRM AI",
+      "category": "BUSINESS",
+      "size_mb": 83.9,
+      "rating": 4.5,
+      "installs": 1000,
+      "total_est_revenue": 873.99
+    },
+    {
+      "app_name": "Swift Assistant Lite",
+      "category": "PRODUCTIVITY",
+      "size_mb": 38.3,
+      "rating": 4.0,
+      "installs": 10000,
+      "total_est_revenue": 55930.0
+    },
+    {
+      "app_name": "Pocket Pro Go",
+      "category": "FINANCE",
+      "size_mb": 20.8,
+      "rating": 4.4,
+      "installs": 1000000,
+      "total_est_revenue": 95425.35
+    },
+    {
+      "app_name": "Art Frames Max",
+      "category": "PHOTOGRAPHY",
+      "size_mb": 91.2,
+      "rating": 4.2,
+      "installs": 5000,
+      "total_est_revenue": 10465.0
+    },
+    {
+      "app_name": "Ledger Tracker 2026",
+      "category": "FINANCE",
+      "size_mb": 37.4,
+      "rating": 4.8,
+      "installs": 5000,
+      "total_est_revenue": 5195.8
+    },
+    {
+      "app_name": "Quick Tool 3D",
+      "category": "TOOLS",
+      "size_mb": 30.8,
+      "rating": 4.9,
+      "installs": 5000000,
+      "total_est_revenue": 297539.57
+    },
+    {
+      "app_name": "Pixel Master #6328",
+      "category": "GAME",
+      "size_mb": 285.7,
+      "rating": 4.5,
+      "installs": 500000,
+      "total_est_revenue": 163212.34
+    }
+  ],
+  "top_apps": [
+    {
+      "app_name": "Team Manager 2026",
+      "category": "BUSINESS",
+      "rating": 3.8,
+      "installs": 100000000,
+      "type": "Free",
+      "price": 0.0,
+      "has_in_app_purchases": 1,
+      "total_est_revenue": 132671575.62
+    },
+    {
+      "app_name": "Speak Prep 3D",
+      "category": "EDUCATION",
+      "rating": 4.6,
+      "installs": 100000000,
+      "type": "Free",
+      "price": 0.0,
+      "has_in_app_purchases": 1,
+      "total_est_revenue": 104340060.12
+    },
+    {
+      "app_name": "Pure Zone 3D",
+      "category": "HEALTH_AND_FITNESS",
+      "rating": 4.6,
+      "installs": 100000000,
+      "type": "Free",
+      "price": 0.0,
+      "has_in_app_purchases": 1,
+      "total_est_revenue": 72184845.14
+    },
+    {
+      "app_name": "Smart Junior Go",
+      "category": "EDUCATION",
+      "rating": 4.4,
+      "installs": 100000000,
+      "type": "Free",
+      "price": 0.0,
+      "has_in_app_purchases": 1,
+      "total_est_revenue": 60208161.75
+    },
+    {
+      "app_name": "Pulse Coach X",
+      "category": "HEALTH_AND_FITNESS",
+      "rating": 4.4,
+      "installs": 100000000,
+      "type": "Free",
+      "price": 0.0,
+      "has_in_app_purchases": 1,
+      "total_est_revenue": 57770528.3
+    },
+    {
+      "app_name": "Active Coach 2026",
+      "category": "HEALTH_AND_FITNESS",
+      "rating": 4.1,
+      "installs": 100000000,
+      "type": "Free",
+      "price": 0.0,
+      "has_in_app_purchases": 1,
+      "total_est_revenue": 56807621.08
+    },
+    {
+      "app_name": "Circle App 2026",
+      "category": "SOCIAL",
+      "rating": 4.3,
+      "installs": 50000000,
+      "type": "Free",
+      "price": 0.0,
+      "has_in_app_purchases": 1,
+      "total_est_revenue": 52183409.97
+    },
+    {
+      "app_name": "Fit Mind Go",
+      "category": "HEALTH_AND_FITNESS",
+      "rating": 4.3,
+      "installs": 100000000,
+      "type": "Free",
+      "price": 0.0,
+      "has_in_app_purchases": 1,
+      "total_est_revenue": 51320943.83
+    },
+    {
+      "app_name": "Daily Log HD",
+      "category": "HEALTH_AND_FITNESS",
+      "rating": 4.7,
+      "installs": 50000000,
+      "type": "Free",
+      "price": 0.0,
+      "has_in_app_purchases": 1,
+      "total_est_revenue": 48050163.48
+    },
+    {
+      "app_name": "Super Warriors #4724",
+      "category": "GAME",
+      "rating": 4.7,
+      "installs": 50000000,
+      "type": "Free",
+      "price": 0.0,
+      "has_in_app_purchases": 1,
+      "total_est_revenue": 40203276.63
+    },
+    {
+      "app_name": "Vital Mind Max",
+      "category": "HEALTH_AND_FITNESS",
+      "rating": 4.8,
+      "installs": 50000000,
+      "type": "Free",
+      "price": 0.0,
+      "has_in_app_purchases": 1,
+      "total_est_revenue": 39144339.1
+    },
+    {
+      "app_name": "Wealth Control Go",
+      "category": "FINANCE",
+      "rating": 4.1,
+      "installs": 50000000,
+      "type": "Free",
+      "price": 0.0,
+      "has_in_app_purchases": 1,
+      "total_est_revenue": 36718424.59
+    },
+    {
+      "app_name": "Organize Tracker HD",
+      "category": "PRODUCTIVITY",
+      "rating": 4.4,
+      "installs": 100000000,
+      "type": "Free",
+      "price": 0.0,
+      "has_in_app_purchases": 1,
+      "total_est_revenue": 36334284.11
+    },
+    {
+      "app_name": "Epic Battle #4758",
+      "category": "GAME",
+      "rating": 4.4,
+      "installs": 100000000,
+      "type": "Free",
+      "price": 0.0,
+      "has_in_app_purchases": 1,
+      "total_est_revenue": 36018338.87
+    },
+    {
+      "app_name": "Idle Legends Lite",
+      "category": "GAME",
+      "rating": 4.6,
+      "installs": 50000000,
+      "type": "Free",
+      "price": 0.0,
+      "has_in_app_purchases": 1,
+      "total_est_revenue": 35828646.77
+    }
+  ],
+  "benchmarks": {
+    "overall_reduction_pct": 98.4,
+    "overall_speedup_x": 62.98,
+    "total_baseline_ms": 1941.79,
+    "total_optimized_ms": 30.83,
+    "queries": [
+      {
+        "query_name": "Query 1: Category Market Saturation",
+        "baseline_ms": 19.0,
+        "optimized_ms": 5.38,
+        "reduction_pct": 71.7,
+        "speedup_x": 3.53
+      },
+      {
+        "query_name": "Query 2: Freemium Outlier Filter",
+        "baseline_ms": 1589.19,
+        "optimized_ms": 8.53,
+        "reduction_pct": 99.5,
+        "speedup_x": 186.31
+      },
+      {
+        "query_name": "Query 3: Price Elasticity Tiers",
+        "baseline_ms": 3.01,
+        "optimized_ms": 1.2,
+        "reduction_pct": 60.1,
+        "speedup_x": 2.51
+      },
+      {
+        "query_name": "Query 4: Category Engagement Ranking",
+        "baseline_ms": 249.71,
+        "optimized_ms": 6.28,
+        "reduction_pct": 97.5,
+        "speedup_x": 39.76
+      },
+      {
+        "query_name": "Query 5: Strategic Opportunity Matrix",
+        "baseline_ms": 80.88,
+        "optimized_ms": 9.44,
+        "reduction_pct": 88.3,
+        "speedup_x": 8.57
+      }
+    ]
+  }
+}
